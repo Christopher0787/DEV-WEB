@@ -82,3 +82,30 @@
 
     - . `style`  : Attribut pour appliquer du style CSS directement à un élément.
 ---
+## **Voici un exemple simple d'une page HTML avec un titre, un paragraphe et un lien :**
+
+    <!DOCTYPE html>
+
+    <html lang="fr">
+
+    <head>
+
+        <meta charset="UTF-8">
+
+        <meta name="description" content="Exemple de page HTML">
+
+        <meta name="author" content="Moi">
+
+        <title>Ma Première Page HTML</title>
+
+    </head>
+
+    <body>
+
+    <h1>Bienvenue sur ma première page HTML</h1>
+    <p>Ceci est un paragraphe simple.</p>
+    <p>Vous pouvez également visiter mon <a href="https://www.example.com">site web</a>.</p>
+
+    </body>
+    </html>
+---
