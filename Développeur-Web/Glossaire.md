@@ -1,10 +1,13 @@
 # **Le Glossaire du Développeur Web**
 ---
-Un développeur web est chargé de l’ensemble des fonctionnalités techniques d’un site ou d’une application web. Il conçoit des sites sur-mesure en fonction du cahier des charges communiqué par le client.
-Afin de vous faire découvrir le lexique du développement web, nous avons rédigé un glossaire complet avec nos experts du web. Vous retrouverez dans cet article les secrets de leur langage !
-Nous mettrons cet article à jour régulièrement afin de le compléter et l’enrichir en fonction de vos recommandations.
-A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S | T | U | W
+    - Un développeur web est chargé de l’ensemble des fonctionnalités techniques d’un site ou d’une application web. Il conçoit des sites sur-mesure en fonction du cahier des charges communiqué par le client.
 
+    - Afin de vous faire découvrir le lexique du développement web, nous avons rédigé un glossaire complet avec nos experts du web. Vous retrouverez dans cet article les secrets de leur langage !
+
+    - Nous mettrons cet article à jour régulièrement afin de le compléter et l’enrichir en fonction de vos recommandations.
+
+    - A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S | T | U | W
+---
 AJAX
 Ce terme désigne une technologie utilisée dans le domaine de la création de sites web. Elle permet d’apporter une certaine interactivité entre les pages, de récupérer des données sans interrompre la navigation mais aussi de réaliser des transitions de pages sans rechargement.
 
