@@ -44,9 +44,10 @@
 
     - Les Big Data, également appelées mégadonnées, désignent de grandes quantités de données structurées et non structurées qui sont difficiles à traiter et à analyser à l’aide de technologies et de techniques traditionnelles. Elles peuvent provenir de différentes sources, telles que les transactions en ligne, les réseaux sociaux, les capteurs et les appareils connectés, et peuvent être utilisées pour obtenir des insights et des prévisions sur les comportements et les tendances.
 ---
-CDN 
-Acronymes de Content Delivery Network (réseau de diffusion de contenu), il s’agit d’un ensemble de serveurs localisé à des emplacements différents et mis en réseau par internet. C’est un moyen très pertinent de diffuser votre site ou application web dans le monde. A travers un système de répartition, les contenus statiques de votre serveur sont envoyés vers des serveurs miroirs. Lorsqu’un internaute charge un contenu spécifique sur votre site, la demande est envoyée par un système d’acheminement des demandes vers le serveur miroir le mieux adapté du CDN afin de délivrer les données correspondantes. 
+## **CDN**
 
+    - Acronymes de Content Delivery Network (réseau de diffusion de contenu), il s’agit d’un ensemble de serveurs localisé à des emplacements différents et mis en réseau par internet. C’est un moyen très pertinent de diffuser votre site ou application web dans le monde. A travers un système de répartition, les contenus statiques de votre serveur sont envoyés vers des serveurs miroirs. Lorsqu’un internaute charge un contenu spécifique sur votre site, la demande est envoyée par un système d’acheminement des demandes vers le serveur miroir le mieux adapté du CDN afin de délivrer les données correspondantes. 
+---
 CGI (Common Gateway Interface)
 Le Common Gateway Interface (CGI) est une spécification qui définit comment un serveur Web peut interagir avec des programmes exécutables sur le serveur. Il permet aux utilisateurs de créer des pages Web dynamiques en exécutant des scripts ou des programmes sur le serveur lorsqu’une page est demandée par un utilisateur. Le CGI est généralement utilisé avec des langages de script côté serveur tels que PHP, Perl ou Python. Lorsqu’un utilisateur demande une page Web qui utilise le CGI, le serveur exécute le script ou le programme associé et renvoie le résultat sous forme de page Web générée dynamiquement au navigateur de l’utilisateur. 
 
