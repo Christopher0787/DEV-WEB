@@ -28,18 +28,22 @@
 
     - Il s’agit d’une interface de programmation d’applications pour un serveur ou un navigateur web. L’API facilite la création et l’intégration de logiciels d’applications et permet aux développeurs d’intégrer rapidement des fonctionnalités spécifiques à leur site web.
 ---
-BACK-END
-Le back-end d’un site ou d’une application Web fait référence à la partie qui est « cachée » aux utilisateurs et qui se trouve sur le serveur. C’est la partie du site ou de l’application qui s’occupe de la logique de l’application, de la gestion de la base de données et de la communication avec les utilisateurs.
+## **BACK-END**
 
-BACK-OFFICE
-Le back-office est la partie invisible d’un site web. Elle est protégée par un mot de passe permettant de gérer l’ensemble du site. Cette interface permet d’administrer votre site internet. Chez Digital Cover, nos clients ont la possibilité d’effectuer des modifications comme l’intégration de nouveaux contenus ou d’articles par exemple. 
+    - Le back-end d’un site ou d’une application Web fait référence à la partie qui est « cachée » aux utilisateurs et qui se trouve sur le serveur. C’est la partie du site ou de l’application qui s’occupe de la logique de l’application, de la gestion de la base de données et de la communication avec les utilisateurs.
+---
+## **BACK-OFFICE**
 
-BASE DE DONNÉES
-Une base de données est un système organisé qui stock des informations et permet de les récupérer, de les mettre à jour et de les manipuler de différentes manières. Les bases de données sont couramment utilisées pour stocker et gérer de grandes quantités de données de manière organisée et accessible, de manière à ce qu’elles puissent être utilisées efficacement.
+    - Le back-office est la partie invisible d’un site web. Elle est protégée par un mot de passe permettant de gérer l’ensemble du site. Cette interface permet d’administrer votre site internet. Chez Digital Cover, nos clients ont la possibilité d’effectuer des modifications comme l’intégration de nouveaux contenus ou d’articles par exemple. 
+---
+## **BASE DE DONNÉES**
 
-BIG DATA
-Les Big Data, également appelées mégadonnées, désignent de grandes quantités de données structurées et non structurées qui sont difficiles à traiter et à analyser à l’aide de technologies et de techniques traditionnelles. Elles peuvent provenir de différentes sources, telles que les transactions en ligne, les réseaux sociaux, les capteurs et les appareils connectés, et peuvent être utilisées pour obtenir des insights et des prévisions sur les comportements et les tendances.
+    - Une base de données est un système organisé qui stock des informations et permet de les récupérer, de les mettre à jour et de les manipuler de différentes manières. Les bases de données sont couramment utilisées pour stocker et gérer de grandes quantités de données de manière organisée et accessible, de manière à ce qu’elles puissent être utilisées efficacement.
+---
+## **BIG DATA**
 
+    - Les Big Data, également appelées mégadonnées, désignent de grandes quantités de données structurées et non structurées qui sont difficiles à traiter et à analyser à l’aide de technologies et de techniques traditionnelles. Elles peuvent provenir de différentes sources, telles que les transactions en ligne, les réseaux sociaux, les capteurs et les appareils connectés, et peuvent être utilisées pour obtenir des insights et des prévisions sur les comportements et les tendances.
+---
 CDN 
 Acronymes de Content Delivery Network (réseau de diffusion de contenu), il s’agit d’un ensemble de serveurs localisé à des emplacements différents et mis en réseau par internet. C’est un moyen très pertinent de diffuser votre site ou application web dans le monde. A travers un système de répartition, les contenus statiques de votre serveur sont envoyés vers des serveurs miroirs. Lorsqu’un internaute charge un contenu spécifique sur votre site, la demande est envoyée par un système d’acheminement des demandes vers le serveur miroir le mieux adapté du CDN afin de délivrer les données correspondantes. 
 
