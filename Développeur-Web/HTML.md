@@ -68,3 +68,17 @@
 
     - . `<span>`  : Division générique utilisée pour appliquer du style à une section de texte.
 ---
+# Attributs :
+
+    - . `id ` : Identifiant unique pour un élément.
+
+    - . `class`  : Classe pour regrouper plusieurs éléments ensemble (pour le style CSS).
+
+    - . `href`  : URL de destination pour un lien <a>.
+
+    - . `src`  : URL de la source pour une image <img>.
+
+    - . `alt`  : Texte alternatif pour une image.
+
+    - . `style`  : Attribut pour appliquer du style CSS directement à un élément.
+---
