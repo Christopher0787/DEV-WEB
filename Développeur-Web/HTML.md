@@ -36,3 +36,15 @@
     </html>
 
 ---
+# Balises :
+
+    - . `<html>`  : Balise racine de tout document HTML.
+
+    - . `<head>`  : Contient les métadonnées de la page.
+
+    - . `<title>`  : Définit le titre de la page qui s'affiche dans l'onglet du navigateur.
+
+    - . `<body>`  : Contient le contenu visible de la page.
+
+    - . `<!-- ... -->`  : Commentaires.
+---
