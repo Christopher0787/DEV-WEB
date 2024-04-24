@@ -5,3 +5,6 @@
 
 ---
 ## **Voici quelques bases pour commencer :**
+
+---
+# Structure de base :
