@@ -15,6 +15,14 @@
 
     <head>
 
+        <meta charset="UTF-8">
+
+        <meta name="description" content="Description de la page">
+
+        <meta name="keywords" content="Mots-clés, séparés, par, des, virgules">
+    
+        <meta name="author" content="Auteur de la page">
+
          <title> Titre de la page </title>
 
     </head>
@@ -27,3 +35,4 @@
 
     </html>
 
+---
