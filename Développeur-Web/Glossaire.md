@@ -58,14 +58,18 @@
 
     - Par exemple, lorsqu’un utilisateur navigue sur votre site sa souris peut survoler une image et celle-ci devient plus grande, le texte peut changer de couleur… 
 ---
-CMS
-Acronymes de Content Management System, un CMS regroupe une catégorie de logiciels permettant de gérer et mettre à jour les sites internet. Plus spécifiquement, les CMS servent à scinder le contenu de la mise en forme.
-Chez Digital Cover, nos experts développent des sites web sous le CMS WordPress. 
+## **CMS**
 
-CSS / SCSS (SASS)
-Acronyme de Cascading Style Sheets, le CSS est un langage informatique permettant de mettre en forme les fichiers HTML ou XML. Ces feuilles de style vont donner vie au design du site. De façon générale, l’HTML et le CSS ne sont pas considérés comme des langages de programmation car ils ne demandent pas de réflexion algorithmique comme PHP ou JavaScript. 
-Le SCSS (SASS) est un pré-processeur représentant une sur-couche de CSS qui va permettre d’automatiser, organiser les fichiers plus facilement, simplifier l’utilisation du code ou encore diminuer les erreurs. De plus, cela améliore la qualité et le temps de développement.
+    - Acronymes de Content Management System, un CMS regroupe une catégorie de logiciels permettant de gérer et mettre à jour les sites internet. Plus spécifiquement, les CMS servent à scinder le contenu de la mise en forme.
 
+    - Chez Digital Cover, nos experts développent des sites web sous le CMS WordPress. 
+---
+## **CSS / SCSS (SASS)**
+
+    - Acronyme de Cascading Style Sheets, le CSS est un langage informatique permettant de mettre en forme les fichiers HTML ou XML. Ces feuilles de style vont donner vie au design du site. De façon générale, l’HTML et le CSS ne sont pas considérés comme des langages de programmation car ils ne demandent pas de réflexion algorithmique comme PHP ou JavaScript. 
+
+    - Le SCSS (SASS) est un pré-processeur représentant une sur-couche de CSS qui va permettre d’automatiser, organiser les fichiers plus facilement, simplifier l’utilisation du code ou encore diminuer les erreurs. De plus, cela améliore la qualité et le temps de développement.
+---
 DOM 
 Acronyme de Document Object Model, le DOM est une interface de programmation en représentation HTML pour les pages web de votre site. C’est en réalité une API qui permet aux programmes de lire et manier le contenu de votre page. 
 
