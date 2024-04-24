@@ -24,9 +24,10 @@
 
     - Apache HTTP Server (souvent appelé simplement Apache) est un serveur Web libre et open source pour les systèmes d’exploitation Unix-like, Windows et MacOS. Il est l’un des serveurs Web les plus populaires au monde. Il est connu pour sa flexibilité, sa stabilité et sa performance. Apache peut être configuré de différentes manières pour répondre aux besoins spécifiques d’un site Web, il peut également être utilisé en conjonction avec d’autres logiciels pour créer et gérer des sites Web dynamiques.
 ---
-API (Application Programming Interface)
-Il s’agit d’une interface de programmation d’applications pour un serveur ou un navigateur web. L’API facilite la création et l’intégration de logiciels d’applications et permet aux développeurs d’intégrer rapidement des fonctionnalités spécifiques à leur site web.
+## **API (Application Programming Interface)**
 
+    - Il s’agit d’une interface de programmation d’applications pour un serveur ou un navigateur web. L’API facilite la création et l’intégration de logiciels d’applications et permet aux développeurs d’intégrer rapidement des fonctionnalités spécifiques à leur site web.
+---
 BACK-END
 Le back-end d’un site ou d’une application Web fait référence à la partie qui est « cachée » aux utilisateurs et qui se trouve sur le serveur. C’est la partie du site ou de l’application qui s’occupe de la logique de l’application, de la gestion de la base de données et de la communication avec les utilisateurs.
 
