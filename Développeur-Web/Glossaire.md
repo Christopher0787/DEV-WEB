@@ -8,9 +8,10 @@
 
     - A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S | T | U | W
 ---
-AJAX
-Ce terme désigne une technologie utilisée dans le domaine de la création de sites web. Elle permet d’apporter une certaine interactivité entre les pages, de récupérer des données sans interrompre la navigation mais aussi de réaliser des transitions de pages sans rechargement.
+## **AJAX**
 
+    - Ce terme désigne une technologie utilisée dans le domaine de la création de sites web. Elle permet d’apporter une certaine interactivité entre les pages, de récupérer des données sans interrompre la navigation mais aussi de réaliser des transitions de pages sans rechargement.
+---
 ALGORITHME
 Un algorithme est un ensemble d’instructions détaillées et précises qui décrivent une série de étapes à suivre pour résoudre un problème ou accomplir une tâche. Les algorithmes peuvent être utilisés pour effectuer des calculs, traiter des données, prendre des décisions et accomplir d’autres tâches informatiques.
 
