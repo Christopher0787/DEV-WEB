@@ -33,12 +33,12 @@
     Ensuite, plonge dans CSS (Cascading Style Sheets) pour apprendre à styliser et mettre en forme tes pages web.
 
 ---
-JavaScript :
+## **JavaScript :**
 
-JavaScript est un langage de programmation essentiel pour le développement web. Il permet d'ajouter de l'interactivité et de la dynamique aux pages web.
-Tu peux commencer par des tutoriels en ligne, des cours interactifs ou des livres pour apprendre les bases de JavaScript.
+    - JavaScript est un langage de programmation essentiel pour le développement web. Il permet d'ajouter de l'interactivité et de la dynamique aux pages web.
+    - Tu peux commencer par des tutoriels en ligne, des cours interactifs ou des livres pour apprendre les bases de JavaScript.
 
-
+---
 Frameworks et bibliothèques JavaScript :
 
 Une fois que tu te sens à l'aise avec JavaScript, tu peux explorer des frameworks et bibliothèques populaires comme React.js, Angular, ou Vue.js. Ces outils facilitent le développement web en fournissant des structures et des fonctionnalités prêtes à l'emploi.
