@@ -9,21 +9,21 @@
 ---
 # Structure de base :
 
-<!DOCTYPE html>
+    <!DOCTYPE html>
 
-<html lang="fr">
+    <html lang="fr">
 
-<head>
+    <head>
 
-    <title> Titre de la page </title>
+         <title> Titre de la page </title>
 
-</head>
+    </head>
 
-<body>
+    <body>
 
-<!-- Contenu de la page -->
+        <!-- Contenu de la page -->
 
-</body>
+    </body>
 
-</html>
+    </html>
 
