@@ -48,9 +48,10 @@
 
     - Acronymes de Content Delivery Network (réseau de diffusion de contenu), il s’agit d’un ensemble de serveurs localisé à des emplacements différents et mis en réseau par internet. C’est un moyen très pertinent de diffuser votre site ou application web dans le monde. A travers un système de répartition, les contenus statiques de votre serveur sont envoyés vers des serveurs miroirs. Lorsqu’un internaute charge un contenu spécifique sur votre site, la demande est envoyée par un système d’acheminement des demandes vers le serveur miroir le mieux adapté du CDN afin de délivrer les données correspondantes. 
 ---
-CGI (Common Gateway Interface)
-Le Common Gateway Interface (CGI) est une spécification qui définit comment un serveur Web peut interagir avec des programmes exécutables sur le serveur. Il permet aux utilisateurs de créer des pages Web dynamiques en exécutant des scripts ou des programmes sur le serveur lorsqu’une page est demandée par un utilisateur. Le CGI est généralement utilisé avec des langages de script côté serveur tels que PHP, Perl ou Python. Lorsqu’un utilisateur demande une page Web qui utilise le CGI, le serveur exécute le script ou le programme associé et renvoie le résultat sous forme de page Web générée dynamiquement au navigateur de l’utilisateur. 
+## **CGI (Common Gateway Interface)**
 
+    - Le Common Gateway Interface (CGI) est une spécification qui définit comment un serveur Web peut interagir avec des programmes exécutables sur le serveur. Il permet aux utilisateurs de créer des pages Web dynamiques en exécutant des scripts ou des programmes sur le serveur lorsqu’une page est demandée par un utilisateur. Le CGI est généralement utilisé avec des langages de script côté serveur tels que PHP, Perl ou Python. Lorsqu’un utilisateur demande une page Web qui utilise le CGI, le serveur exécute le script ou le programme associé et renvoie le résultat sous forme de page Web générée dynamiquement au navigateur de l’utilisateur. 
+---
 CLIENT SIDE 
 Le client side se définit par toutes les interactions physiques possibles lors de la navigation sur un site web. Le langage HTML et CSS sont interprétés du côté client via des interprétations des données reçues par le serveur.
 Par exemple, lorsqu’un utilisateur navigue sur votre site sa souris peut survoler une image et celle-ci devient plus grande, le texte peut changer de couleur… 
