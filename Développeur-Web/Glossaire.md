@@ -70,18 +70,22 @@
 
     - Le SCSS (SASS) est un pré-processeur représentant une sur-couche de CSS qui va permettre d’automatiser, organiser les fichiers plus facilement, simplifier l’utilisation du code ou encore diminuer les erreurs. De plus, cela améliore la qualité et le temps de développement.
 ---
-DOM 
-Acronyme de Document Object Model, le DOM est une interface de programmation en représentation HTML pour les pages web de votre site. C’est en réalité une API qui permet aux programmes de lire et manier le contenu de votre page. 
+## **DOM**
 
-FRAMEWORK
-Un framework est une boîte à outils contenant des composantes autonomes afin de faciliter le développement d’un site internet ou d’une application. Chez Digital Cover nos développeurs utilisent Gatsby.
+    - Acronyme de Document Object Model, le DOM est une interface de programmation en représentation HTML pour les pages web de votre site. C’est en réalité une API qui permet aux programmes de lire et manier le contenu de votre page. 
+---
+## **FRAMEWORK**
 
-FRONT-OFFICE
-Au contraire du back-office, le front-office est la partie visible de votre site web par les utilisateurs. Il s’agit de l’ensemble des pages web qui ont été réalisées par le développeur, elles représentent la partie exposée d’un site web. Les utilisateurs peuvent naviguer et visualiser cette partie sans restriction. 
+    - Un framework est une boîte à outils contenant des composantes autonomes afin de faciliter le développement d’un site internet ou d’une application. Chez Digital Cover nos développeurs utilisent Gatsby.
+---
+## **FRONT-OFFICE**
 
-FTP
-Acronyme de File Transfer Protocol, le FTP est un logiciel utilisé pour le transfert de fichiers entre différents ordinateurs. Ce logiciel, par le biais d’un réseau informatique local tel qu’un intranet ou par un navigateur internet, permet une facilité dans les échanges de fichiers.
+    - Au contraire du back-office, le front-office est la partie visible de votre site web par les utilisateurs. Il s’agit de l’ensemble des pages web qui ont été réalisées par le développeur, elles représentent la partie exposée d’un site web. Les utilisateurs peuvent naviguer et visualiser cette partie sans restriction. 
+---
+## **FTP**
 
+    - Acronyme de File Transfer Protocol, le FTP est un logiciel utilisé pour le transfert de fichiers entre différents ordinateurs. Ce logiciel, par le biais d’un réseau informatique local tel qu’un intranet ou par un navigateur internet, permet une facilité dans les échanges de fichiers.
+---
 FULL-STACK
 Un développeur full-stack est capable de réaliser la programmation d’un site internet ou d’une application web en front-end et en back-end. Le full-stack est utilisé lorsqu’un développeur travaille sur le front et le back end.
 
