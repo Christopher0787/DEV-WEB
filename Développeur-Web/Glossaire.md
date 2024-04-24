@@ -52,10 +52,12 @@
 
     - Le Common Gateway Interface (CGI) est une spécification qui définit comment un serveur Web peut interagir avec des programmes exécutables sur le serveur. Il permet aux utilisateurs de créer des pages Web dynamiques en exécutant des scripts ou des programmes sur le serveur lorsqu’une page est demandée par un utilisateur. Le CGI est généralement utilisé avec des langages de script côté serveur tels que PHP, Perl ou Python. Lorsqu’un utilisateur demande une page Web qui utilise le CGI, le serveur exécute le script ou le programme associé et renvoie le résultat sous forme de page Web générée dynamiquement au navigateur de l’utilisateur. 
 ---
-CLIENT SIDE 
-Le client side se définit par toutes les interactions physiques possibles lors de la navigation sur un site web. Le langage HTML et CSS sont interprétés du côté client via des interprétations des données reçues par le serveur.
-Par exemple, lorsqu’un utilisateur navigue sur votre site sa souris peut survoler une image et celle-ci devient plus grande, le texte peut changer de couleur… 
+## **CLIENT SIDE**
 
+    - Le client side se définit par toutes les interactions physiques possibles lors de la navigation sur un site web. Le langage HTML et CSS sont interprétés du côté client via des interprétations des données reçues par le serveur.
+
+    - Par exemple, lorsqu’un utilisateur navigue sur votre site sa souris peut survoler une image et celle-ci devient plus grande, le texte peut changer de couleur… 
+---
 CMS
 Acronymes de Content Management System, un CMS regroupe une catégorie de logiciels permettant de gérer et mettre à jour les sites internet. Plus spécifiquement, les CMS servent à scinder le contenu de la mise en forme.
 Chez Digital Cover, nos experts développent des sites web sous le CMS WordPress. 
