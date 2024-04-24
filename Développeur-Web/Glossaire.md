@@ -12,15 +12,18 @@
 
     - Ce terme désigne une technologie utilisée dans le domaine de la création de sites web. Elle permet d’apporter une certaine interactivité entre les pages, de récupérer des données sans interrompre la navigation mais aussi de réaliser des transitions de pages sans rechargement.
 ---
-ALGORITHME
-Un algorithme est un ensemble d’instructions détaillées et précises qui décrivent une série de étapes à suivre pour résoudre un problème ou accomplir une tâche. Les algorithmes peuvent être utilisés pour effectuer des calculs, traiter des données, prendre des décisions et accomplir d’autres tâches informatiques.
+## **ALGORITHME**
 
-AMP
-Accelerated Mobile Page, ou AMP, est une technologie open-source, permettant d’améliorer le temps de chargement de votre site web et de l’optimiser pour le SEO, en proposant une version simplifiée du langage HTML du site internet en question. Les éléments JavaScript sont contournés afin d’éviter toutes détériorations des performances. Cette technique permet d’améliorer l’expérience utilisateur.
+    - Un algorithme est un ensemble d’instructions détaillées et précises qui décrivent une série de étapes à suivre pour résoudre un problème ou accomplir une tâche. Les algorithmes peuvent être utilisés pour effectuer des calculs, traiter des données, prendre des décisions et accomplir d’autres tâches informatiques.
+---
+## **AMP**
 
-APACHE HTTP SERVEUR
-Apache HTTP Server (souvent appelé simplement Apache) est un serveur Web libre et open source pour les systèmes d’exploitation Unix-like, Windows et MacOS. Il est l’un des serveurs Web les plus populaires au monde. Il est connu pour sa flexibilité, sa stabilité et sa performance. Apache peut être configuré de différentes manières pour répondre aux besoins spécifiques d’un site Web, il peut également être utilisé en conjonction avec d’autres logiciels pour créer et gérer des sites Web dynamiques.
+    - Accelerated Mobile Page, ou AMP, est une technologie open-source, permettant d’améliorer le temps de chargement de votre site web et de l’optimiser pour le SEO, en proposant une version simplifiée du langage HTML du site internet en question. Les éléments JavaScript sont contournés afin d’éviter toutes détériorations des performances. Cette technique permet d’améliorer l’expérience utilisateur.
+---
+## **APACHE HTTP SERVEUR**
 
+    - Apache HTTP Server (souvent appelé simplement Apache) est un serveur Web libre et open source pour les systèmes d’exploitation Unix-like, Windows et MacOS. Il est l’un des serveurs Web les plus populaires au monde. Il est connu pour sa flexibilité, sa stabilité et sa performance. Apache peut être configuré de différentes manières pour répondre aux besoins spécifiques d’un site Web, il peut également être utilisé en conjonction avec d’autres logiciels pour créer et gérer des sites Web dynamiques.
+---
 API (Application Programming Interface)
 Il s’agit d’une interface de programmation d’applications pour un serveur ou un navigateur web. L’API facilite la création et l’intégration de logiciels d’applications et permet aux développeurs d’intégrer rapidement des fonctionnalités spécifiques à leur site web.
 
