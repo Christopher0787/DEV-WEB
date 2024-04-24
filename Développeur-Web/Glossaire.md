@@ -86,13 +86,16 @@
 
     - Acronyme de File Transfer Protocol, le FTP est un logiciel utilisé pour le transfert de fichiers entre différents ordinateurs. Ce logiciel, par le biais d’un réseau informatique local tel qu’un intranet ou par un navigateur internet, permet une facilité dans les échanges de fichiers.
 ---
-FULL-STACK
-Un développeur full-stack est capable de réaliser la programmation d’un site internet ou d’une application web en front-end et en back-end. Le full-stack est utilisé lorsqu’un développeur travaille sur le front et le back end.
+## **FULL-STACK**
 
-GIT
-GIT est un outil de développement, plus particulièrement un système de contrôle de version. Il permet aux développeurs de gérer les changements apportés dans le code source au fur et à mesure, mais aussi de garder une trace de chacun d’entre eux. Les développeurs ont la possibilité de revenir en arrière si une erreur a été effectuée, de comparer les versions antérieures du code tout en réduisant les perturbations pour l’ensemble de l’équipe. 
-En plus d’être un outil de développement c’est un outil collaboratif qui offre la possibilité aux développeurs de travailler chacun de leurs côtés sur un même projet, mais aussi de minimiser les risques de perte de travail. 
+    - Un développeur full-stack est capable de réaliser la programmation d’un site internet ou d’une application web en front-end et en back-end. Le full-stack est utilisé lorsqu’un développeur travaille sur le front et le back end.
+---
+## **GIT**
 
+    - GIT est un outil de développement, plus particulièrement un système de contrôle de version. Il permet aux développeurs de gérer les changements apportés dans le code source au fur et à mesure, mais aussi de garder une trace de chacun d’entre eux. Les développeurs ont la possibilité de revenir en arrière si une erreur a été effectuée, de comparer les versions antérieures du code tout en réduisant les perturbations pour l’ensemble de l’équipe.
+
+    - En plus d’être un outil de développement c’est un outil collaboratif qui offre la possibilité aux développeurs de travailler chacun de leurs côtés sur un même projet, mais aussi de minimiser les risques de perte de travail. 
+---
 HEADLESS CMS
 Système de gestion de contenu, le headless se compose d’une API et de la technologie du back-office pour stocker et distribuer le contenu. Cette approche permet de découpler l’édition et la distribution du contenu, afin d’offrir la possibilité d’utiliser les données du CMS quelque soit la plateforme. De plus, cette technologie permet d’administrer les différents types d’affichages des contenus sur une ou plusieurs plateformes. 
 
