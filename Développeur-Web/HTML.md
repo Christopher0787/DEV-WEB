@@ -48,3 +48,23 @@
 
     - . `<!-- ... -->`  : Commentaires.
 ---
+# Éléments de contenu :
+
+    - . `<h1>, <h2>, <h3>, <h4>, <h5>, <h6>`  : Titres de différentes tailles.
+
+    - . `<p>`  : Paragraphe.
+
+    - . `<a href="url">Texte du lien</a>`  : Lien hypertexte.  
+
+    - . `<img src="url_de_l_image" alt="Texte alternatif">`  : Image.
+
+    - . `<ul>`  : Liste non ordonnée.
+
+    - . `<ol>`  : Liste ordonnée.
+
+    - . `<li>`  : Élément de liste.
+
+    - . `<div>`  : Division générique utilisée pour grouper des éléments.
+
+    - . `<span>`  : Division générique utilisée pour appliquer du style à une section de texte.
+---
