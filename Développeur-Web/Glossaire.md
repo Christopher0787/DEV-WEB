@@ -166,13 +166,16 @@
     
     - Un site responsive design est un site web qui à la capacité d’adapter son affichage à tous les types d’écran (mobile, tablette, PC sont les plus courants).
 ---
-SERVER SIDE 
-Le côté serveur en français, désigne tout ce qui se déroule sur le serveur et non sur le côté client. C’est en réalité les opérations effectuées par le serveur dans la communication entre le client et le serveur dans le réseau informatique. 
+## **SERVER SIDE**
 
-SHADER 
-Un shader est un programme qui communique directement avec la carte graphique. 
-Il permet de réaliser des animations et des effets graphiques poussés, mais aussi de réaliser des rendus 3D dans un navigateur. 
+    - Le côté serveur en français, désigne tout ce qui se déroule sur le serveur et non sur le côté client. C’est en réalité les opérations effectuées par le serveur dans la communication entre le client et le serveur dans le réseau informatique. 
+---
+## **SHADER**
 
+    - Un shader est un programme qui communique directement avec la carte graphique. 
+
+    - Il permet de réaliser des animations et des effets graphiques poussés, mais aussi de réaliser des rendus 3D dans un navigateur. 
+---
 STARTER
 Le starter est un ensemble de fichiers et de fonctionnalités mis à jour constamment lors de chaque création de site internet. Il fait l’objet de notre base de démarrage pour chaque lancement de projet.
 Chez Digital Cover, nous avons une base avec un fichier template, des plugins, du full ajax (chargement plus rapide des pages) et du lazy loading que nos experts utilisent pour chacun des sites web.
