@@ -162,9 +162,10 @@
 
     - La recette en informatique est la dernière étape où le client approuve que le site livré par l’agence est conforme à ses attentes. L’objectif est d’évaluer la conformité du site final avec le cahier des charges. 
 ---
-RESPONSIVE 
-Un site responsive design est un site web qui à la capacité d’adapter son affichage à tous les types d’écran (mobile, tablette, PC sont les plus courants).
-
+## **RESPONSIVE**
+    
+    - Un site responsive design est un site web qui à la capacité d’adapter son affichage à tous les types d’écran (mobile, tablette, PC sont les plus courants).
+---
 SERVER SIDE 
 Le côté serveur en français, désigne tout ce qui se déroule sur le serveur et non sur le côté client. C’est en réalité les opérations effectuées par le serveur dans la communication entre le client et le serveur dans le réseau informatique. 
 
