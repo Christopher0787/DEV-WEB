@@ -123,15 +123,17 @@
 ## **LAZY LOADING**
 
     - Le lazy loading est le fait de charger les images et vidéos en différé, c’est-à-dire uniquement lorsqu’elles deviennent visibles sur l’écran en fonction du scroll. Cette pratique permet de faire gagner en performance, de réduire le temps de chargement du site ou encore d’améliorer le référencement naturel. 
+---
+## **MAMP**
 
-MAMP
-MAMP est un acronyme informatique :
-    • Macintosh pour le système d’exploitation ; 
-    • Apache pour le logiciel de serveur web ; 
-    • MySQL pour le système de gestion des bases de données ; 
-    • PHP pour le langage script
-C’est en réalité une pile de logiciels open source utilisés pour réaliser des sites internet via des ordinateurs Mac en créant un serveur local sur son ordinateur.
+    - MAMP est un acronyme informatique :
+        • Macintosh pour le système d’exploitation ; 
+        • Apache pour le logiciel de serveur web ; 
+        • MySQL pour le système de gestion des bases de données ; 
+        • PHP pour le langage script
 
+    - C’est en réalité une pile de logiciels open source utilisés pour réaliser des sites internet via des ordinateurs Mac en créant un serveur local sur son ordinateur.
+---
 MEDIA QUERIES
 Le terme media queries désigne un module permettant d’adapter le contenu d’une page web à des conditions spécifiques. Ce module est mis à contribution lors de la modification de l’affichage d’une page selon sa hauteur et largeur en fonction de l’écran utilisé pour sa navigation. Le media queries est une spécification CSS3 dans la création d’un site responsive. L’intégration du media queries dans le développement d’un site internet offre un gain de temps par rapport à la conception d’une interface différente pour chacun des supports. 
 
