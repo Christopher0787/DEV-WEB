@@ -138,9 +138,10 @@
 
     - Le terme media queries désigne un module permettant d’adapter le contenu d’une page web à des conditions spécifiques. Ce module est mis à contribution lors de la modification de l’affichage d’une page selon sa hauteur et largeur en fonction de l’écran utilisé pour sa navigation. Le media queries est une spécification CSS3 dans la création d’un site responsive. L’intégration du media queries dans le développement d’un site internet offre un gain de temps par rapport à la conception d’une interface différente pour chacun des supports. 
 ---
-MOBILE FIRST 
-Le Mobile First est une stratégie digitale qui consiste à concevoir et développer son site web pour tous types de mobiles et en adaptant au fur et à mesure le design pour des écrans plus larges. 
+## **MOBILE FIRST**
 
+    - Le Mobile First est une stratégie digitale qui consiste à concevoir et développer son site web pour tous types de mobiles et en adaptant au fur et à mesure le design pour des écrans plus larges. 
+---
 PARALLAX
 La technique du parallax, ou parallax scrolling en anglais, permet de déplacer une image ou un visuel positionné sous différentes « couches ». L’image/visuel donne l’impression de changer de position au scroll de la page web. Nos développeurs web vont attribuer une vitesse plus rapide à l’objet à contrario de celle du fond. Ce changement de vitesse donne un effet de profondeur sur le ou les visuels et une mise en avant de vos contenus.
 
