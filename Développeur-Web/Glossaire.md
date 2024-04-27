@@ -116,9 +116,10 @@
 
     - Acronyme de Integrated Development Environment (environnement de développement intégré) est un logiciel de création d’applications regroupant les outils de développements les plus utilisés dans une seule interface. Les développeurs ont accès à tous types de fichiers avec différentes arborescences, couleurs, lignes de codes… Chez Digital Cover nos experts travaillent sous le logiciel Visual Studio Code.
 ---
-JAVASCRIPT
-JavaScript est un langage de programmation informatique. Chez Digital Cover, nous employons ce langage pour optimiser l’ergonomie d’un site web. Sa particularité est de réaliser un code sans avoir besoin de recharger la page web, cela joue un rôle important dans l’amélioration de la rapidité du temps de chargement des pages. 
+## **JAVASCRIPT**
 
+    - JavaScript est un langage de programmation informatique. Chez Digital Cover, nous employons ce langage pour optimiser l’ergonomie d’un site web. Sa particularité est de réaliser un code sans avoir besoin de recharger la page web, cela joue un rôle important dans l’amélioration de la rapidité du temps de chargement des pages. 
+---
 LAZY LOADING 
 Le lazy loading est le fait de charger les images et vidéos en différé, c’est-à-dire uniquement lorsqu’elles deviennent visibles sur l’écran en fonction du scroll. Cette pratique permet de faire gagner en performance, de réduire le temps de chargement du site ou encore d’améliorer le référencement naturel. 
 
