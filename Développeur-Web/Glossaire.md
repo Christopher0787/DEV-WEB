@@ -154,9 +154,10 @@
 
     - Le plugin permet d’ajouter des fonctions supplémentaires à un logiciel. C’est un module d’extension ne pouvant fonctionner seul. En effet, il est dépendant de son logiciel hôte. Les plugins sont souvent utilisés pour ajouter des fonctionnalités. Par exemple, sous WordPress le plugin Yoast vous permet d’avoir des recommandations SEO concernant votre page. Il existe un grand nombre de plugins pour vous aider.
 ---
-PWA 
-La Progressive Web App, ou PWA, est une technologie employée permettant à votre site web de s’afficher comme une application mobile native à vos utilisateurs. La PWA possède quelques avantages comme la possibilité d’y avoir accès même hors connexion. L’interface et la navigation sera semblable à une application mobile, notifications push disponible, GPS, appareil photo, ainsi que la possibilité de l’installer sur votre téléphone.
+## **PWA**
 
+    - La Progressive Web App, ou PWA, est une technologie employée permettant à votre site web de s’afficher comme une application mobile native à vos utilisateurs. La PWA possède quelques avantages comme la possibilité d’y avoir accès même hors connexion. L’interface et la navigation sera semblable à une application mobile, notifications push disponible, GPS, appareil photo, ainsi que la possibilité de l’installer sur votre téléphone.
+---
 RECETTE
 La recette en informatique est la dernière étape où le client approuve que le site livré par l’agence est conforme à ses attentes. L’objectif est d’évaluer la conformité du site final avec le cahier des charges. 
 
