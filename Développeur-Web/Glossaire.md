@@ -176,17 +176,25 @@
 
     - Il permet de réaliser des animations et des effets graphiques poussés, mais aussi de réaliser des rendus 3D dans un navigateur. 
 ---
-STARTER
-Le starter est un ensemble de fichiers et de fonctionnalités mis à jour constamment lors de chaque création de site internet. Il fait l’objet de notre base de démarrage pour chaque lancement de projet.
-Chez Digital Cover, nous avons une base avec un fichier template, des plugins, du full ajax (chargement plus rapide des pages) et du lazy loading que nos experts utilisent pour chacun des sites web.
+## **STARTER**
 
-WEBP / AVIF 
-WEBP et AVIF sont des formats de média optimisés pour le web. Ils permettent de gagner en performance par rapport à différents formats d’image tels que JPEG, PNG.. 
+    - Le starter est un ensemble de fichiers et de fonctionnalités mis à jour constamment lors de chaque création de site internet. Il fait l’objet de notre base de démarrage pour chaque lancement de projet.
 
-WebGL
-Cette spécification, pour les navigateurs web (Google Chrome, Firefox, Edge, Safari) permet de mettre en place des animations poussées en 2D ou 3D sur les pages web d’un site internet. Il permet de limiter les performances en utilisant principalement la carte graphique, ce qui rendra le site plus fluide dans sa navigation.
-Pour conclure, 
-Vous l’aurez compris, le métier de développeur web est très complexe avec un vocabulaire très spécifique et spécialisé. Vous voulez en savoir plus ? Découvrez aussi notre glossaire en agence web
-Digital Cover vous accompagne dans la création de votre site internet et dans l’élaboration de votre stratégie digitale 360. Contactez-nous pour plus d’informations. 
+    - Chez Digital Cover, nous avons une base avec un fichier template, des plugins, du full ajax (chargement plus rapide des pages) et du lazy loading que nos experts utilisent pour chacun des sites web.
+---
+## **WEBP / AVIF**
 
-À partir de l’adresse <https://digital-cover.fr/le-glossaire-du-developpeur-web/> 
+    - WEBP et AVIF sont des formats de média optimisés pour le web. Ils permettent de gagner en performance par rapport à différents formats d’image tels que JPEG, PNG.. 
+---
+## **WebGL**
+
+    - Cette spécification, pour les navigateurs web (Google Chrome, Firefox, Edge, Safari) permet de mettre en place des animations poussées en 2D ou 3D sur les pages web d’un site internet. Il permet de limiter les performances en utilisant principalement la carte graphique, ce qui rendra le site plus fluide dans sa navigation.
+ ---   
+## **Pour conclure,**
+
+    - Vous l’aurez compris, le métier de développeur web est très complexe avec un vocabulaire très spécifique et spécialisé. Vous voulez en savoir plus ? Découvrez aussi notre glossaire en agence web
+
+    - Digital Cover vous accompagne dans la création de votre site internet et dans l’élaboration de votre stratégie digitale 360. Contactez-nous pour plus d’informations. 
+
+        - * À partir de l’adresse <https://digital-cover.fr/le-glossaire-du-developpeur-web/> 
+---
