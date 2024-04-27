@@ -96,13 +96,16 @@
 
     - En plus d’être un outil de développement c’est un outil collaboratif qui offre la possibilité aux développeurs de travailler chacun de leurs côtés sur un même projet, mais aussi de minimiser les risques de perte de travail. 
 ---
-HEADLESS CMS
-Système de gestion de contenu, le headless se compose d’une API et de la technologie du back-office pour stocker et distribuer le contenu. Cette approche permet de découpler l’édition et la distribution du contenu, afin d’offrir la possibilité d’utiliser les données du CMS quelque soit la plateforme. De plus, cette technologie permet d’administrer les différents types d’affichages des contenus sur une ou plusieurs plateformes. 
+## **HEADLESS CMS**
 
-HTML
-Acronyme signifiant HyperText Markup Language, l’HTML va mettre en forme le contenu, les éléments interactifs (liens, images, balises et animations simples) et le structurer sur une page web. Il permet également de réaliser des liens hypertextes.
-Tous les navigateurs web vous permettent de visualiser le code source HTML/CSS des pages web des sites internet que vous visitez.
+    - Système de gestion de contenu, le headless se compose d’une API et de la technologie du back-office pour stocker et distribuer le contenu. Cette approche permet de découpler l’édition et la distribution du contenu, afin d’offrir la possibilité d’utiliser les données du CMS quelque soit la plateforme. De plus, cette technologie permet d’administrer les différents types d’affichages des contenus sur une ou plusieurs plateformes. 
+---
+## **HTML**
 
+    - Acronyme signifiant HyperText Markup Language, l’HTML va mettre en forme le contenu, les éléments interactifs (liens, images, balises et animations simples) et le structurer sur une page web. Il permet également de réaliser des liens hypertextes.
+
+    - Tous les navigateurs web vous permettent de visualiser le code source HTML/CSS des pages web des sites internet que vous visitez.
+---
 HTTP / HTTPS
 Acronymes de Hypertext Transfer Protocol est un langage informatique d’un protocole de communication entre le client et le serveur. 
 Hypertext Transfer Protocol Secure désigne la version sécurisée du langage HTTP. Cette combinaison permet de protéger l’authentification d’un serveur, la confidentialité ou encore l’intégralité des données échangées. On retrouve généralement l’HTTPS sur les pages d’un site lorsqu’on souhaite effectuer des achats en ligne, ou encore sur des sites appliquant un protocole de sécurité. Le certificat HTTPS apparaît avec la présence d’un cadenas dans la barre d’adresse de votre navigateur. 
