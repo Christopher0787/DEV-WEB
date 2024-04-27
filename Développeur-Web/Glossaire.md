@@ -146,9 +146,10 @@
 
     - La technique du parallax, ou parallax scrolling en anglais, permet de déplacer une image ou un visuel positionné sous différentes « couches ». L’image/visuel donne l’impression de changer de position au scroll de la page web. Nos développeurs web vont attribuer une vitesse plus rapide à l’objet à contrario de celle du fond. Ce changement de vitesse donne un effet de profondeur sur le ou les visuels et une mise en avant de vos contenus.
 ---
-PHP
-Acronyme de Personal Home Page, ce langage de scripts et open source est conçu pour le développement d’applications web. Il offre la possibilité d’écrire en HTML dans un fichier PHP permettant d’avoir des variables modifiables et d’être répété dans le code du fichier PHP.
+## **PHP**
 
+    - Acronyme de Personal Home Page, ce langage de scripts et open source est conçu pour le développement d’applications web. Il offre la possibilité d’écrire en HTML dans un fichier PHP permettant d’avoir des variables modifiables et d’être répété dans le code du fichier PHP.
+---
 PLUGIN
 Le plugin permet d’ajouter des fonctions supplémentaires à un logiciel. C’est un module d’extension ne pouvant fonctionner seul. En effet, il est dépendant de son logiciel hôte. Les plugins sont souvent utilisés pour ajouter des fonctionnalités. Par exemple, sous WordPress le plugin Yoast vous permet d’avoir des recommandations SEO concernant votre page. Il existe un grand nombre de plugins pour vous aider.
 
