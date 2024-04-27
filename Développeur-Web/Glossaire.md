@@ -150,9 +150,10 @@
 
     - Acronyme de Personal Home Page, ce langage de scripts et open source est conçu pour le développement d’applications web. Il offre la possibilité d’écrire en HTML dans un fichier PHP permettant d’avoir des variables modifiables et d’être répété dans le code du fichier PHP.
 ---
-PLUGIN
-Le plugin permet d’ajouter des fonctions supplémentaires à un logiciel. C’est un module d’extension ne pouvant fonctionner seul. En effet, il est dépendant de son logiciel hôte. Les plugins sont souvent utilisés pour ajouter des fonctionnalités. Par exemple, sous WordPress le plugin Yoast vous permet d’avoir des recommandations SEO concernant votre page. Il existe un grand nombre de plugins pour vous aider.
+## **PLUGIN**
 
+    - Le plugin permet d’ajouter des fonctions supplémentaires à un logiciel. C’est un module d’extension ne pouvant fonctionner seul. En effet, il est dépendant de son logiciel hôte. Les plugins sont souvent utilisés pour ajouter des fonctionnalités. Par exemple, sous WordPress le plugin Yoast vous permet d’avoir des recommandations SEO concernant votre page. Il existe un grand nombre de plugins pour vous aider.
+---
 PWA 
 La Progressive Web App, ou PWA, est une technologie employée permettant à votre site web de s’afficher comme une application mobile native à vos utilisateurs. La PWA possède quelques avantages comme la possibilité d’y avoir accès même hors connexion. L’interface et la navigation sera semblable à une application mobile, notifications push disponible, GPS, appareil photo, ainsi que la possibilité de l’installer sur votre téléphone.
 
