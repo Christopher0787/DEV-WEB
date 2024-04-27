@@ -112,9 +112,10 @@
 
     - Hypertext Transfer Protocol Secure désigne la version sécurisée du langage HTTP. Cette combinaison permet de protéger l’authentification d’un serveur, la confidentialité ou encore l’intégralité des données échangées. On retrouve généralement l’HTTPS sur les pages d’un site lorsqu’on souhaite effectuer des achats en ligne, ou encore sur des sites appliquant un protocole de sécurité. Le certificat HTTPS apparaît avec la présence d’un cadenas dans la barre d’adresse de votre navigateur. 
 ---
-IDE
-Acronyme de Integrated Development Environment (environnement de développement intégré) est un logiciel de création d’applications regroupant les outils de développements les plus utilisés dans une seule interface. Les développeurs ont accès à tous types de fichiers avec différentes arborescences, couleurs, lignes de codes… Chez Digital Cover nos experts travaillent sous le logiciel Visual Studio Code.
+## **IDE**
 
+    - Acronyme de Integrated Development Environment (environnement de développement intégré) est un logiciel de création d’applications regroupant les outils de développements les plus utilisés dans une seule interface. Les développeurs ont accès à tous types de fichiers avec différentes arborescences, couleurs, lignes de codes… Chez Digital Cover nos experts travaillent sous le logiciel Visual Studio Code.
+---
 JAVASCRIPT
 JavaScript est un langage de programmation informatique. Chez Digital Cover, nous employons ce langage pour optimiser l’ergonomie d’un site web. Sa particularité est de réaliser un code sans avoir besoin de recharger la page web, cela joue un rôle important dans l’amélioration de la rapidité du temps de chargement des pages. 
 
