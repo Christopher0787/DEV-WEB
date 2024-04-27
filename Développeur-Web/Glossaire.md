@@ -134,9 +134,10 @@
 
     - C’est en réalité une pile de logiciels open source utilisés pour réaliser des sites internet via des ordinateurs Mac en créant un serveur local sur son ordinateur.
 ---
-MEDIA QUERIES
-Le terme media queries désigne un module permettant d’adapter le contenu d’une page web à des conditions spécifiques. Ce module est mis à contribution lors de la modification de l’affichage d’une page selon sa hauteur et largeur en fonction de l’écran utilisé pour sa navigation. Le media queries est une spécification CSS3 dans la création d’un site responsive. L’intégration du media queries dans le développement d’un site internet offre un gain de temps par rapport à la conception d’une interface différente pour chacun des supports. 
+## **MEDIA QUERIES**
 
+    - Le terme media queries désigne un module permettant d’adapter le contenu d’une page web à des conditions spécifiques. Ce module est mis à contribution lors de la modification de l’affichage d’une page selon sa hauteur et largeur en fonction de l’écran utilisé pour sa navigation. Le media queries est une spécification CSS3 dans la création d’un site responsive. L’intégration du media queries dans le développement d’un site internet offre un gain de temps par rapport à la conception d’une interface différente pour chacun des supports. 
+---
 MOBILE FIRST 
 Le Mobile First est une stratégie digitale qui consiste à concevoir et développer son site web pour tous types de mobiles et en adaptant au fur et à mesure le design pour des écrans plus larges. 
 
