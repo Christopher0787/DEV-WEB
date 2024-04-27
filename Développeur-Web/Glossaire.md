@@ -158,9 +158,10 @@
 
     - La Progressive Web App, ou PWA, est une technologie employée permettant à votre site web de s’afficher comme une application mobile native à vos utilisateurs. La PWA possède quelques avantages comme la possibilité d’y avoir accès même hors connexion. L’interface et la navigation sera semblable à une application mobile, notifications push disponible, GPS, appareil photo, ainsi que la possibilité de l’installer sur votre téléphone.
 ---
-RECETTE
-La recette en informatique est la dernière étape où le client approuve que le site livré par l’agence est conforme à ses attentes. L’objectif est d’évaluer la conformité du site final avec le cahier des charges. 
+## **RECETTE**
 
+    - La recette en informatique est la dernière étape où le client approuve que le site livré par l’agence est conforme à ses attentes. L’objectif est d’évaluer la conformité du site final avec le cahier des charges. 
+---
 RESPONSIVE 
 Un site responsive design est un site web qui à la capacité d’adapter son affichage à tous les types d’écran (mobile, tablette, PC sont les plus courants).
 
