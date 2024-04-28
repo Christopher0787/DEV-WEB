@@ -20,19 +20,19 @@
 ---
 ## **Exemple expliqué**
 
-- La <!DOCTYPE html>déclaration définit que ce document est un document HTML5
+    - La <!DOCTYPE html> déclaration définit que ce document est un document HTML5
 
-- L' <html>élément est l'élément racine d'une page HTML
+    - L' <html> élément est l'élément racine d'une page HTML
 
-- L' <head>élément contient des méta-informations sur la page HTML
+    - L' <head> élément contient des méta-informations sur la page HTML
 
-- L' <title>élément spécifie un titre pour la page HTML (qui est affiché dans la barre de titre du navigateur ou dans l'onglet de la page)
+    - L' <title> élément spécifie un titre pour la page HTML (qui est affiché dans la barre de titre du navigateur ou dans l'onglet de la page)
 
-- L' <body>élément définit le corps du document et constitue un conteneur pour tous les contenus visibles, tels que les titres, les - - - - - paragraphes, les images, les hyperliens, les tableaux, les listes, etc.
+    - L' <body> élément définit le corps du document et constitue un conteneur pour tous les contenus visibles, tels que les titres, les - - - - - paragraphes, les images, les hyperliens, les tableaux, les listes, etc.
 
-- L' <h1>élément définit un grand titre
+    - L' <h1> élément définit un grand titre
 
-- L' <p>élément définit un paragraphe
+    - L' <p> élément définit un paragraphe
 
 ---
 ## **Qu'est-ce qu'un élément HTML ?**
