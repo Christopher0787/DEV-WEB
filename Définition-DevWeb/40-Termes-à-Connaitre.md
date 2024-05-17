@@ -23,3 +23,15 @@
 - Terme qui désigne la partie administrative d’un site web (également appelé CMS).
 
 ---
+
+## **Backlog :** 
+
+- Liste des « features » à traiter en méthode agile.
+
+---
+
+## **Backup :** 
+
+- Sauvegarde.
+
+---
