@@ -36,3 +36,12 @@
 
     - Il vous permet de créer des applications mobiles natives pour différentes plateformes (iOS, Android et Windows Mobile) en JavaScript, ce qui vous permet d’utiliser ReactJS pour créer vos composants. Les deux frameworks sont open source par Facebook.
 ---
+
+## **Flutter :**
+
+    - Flutter est un framework open-source développé par Google pour la création d’applications mobiles pour iOS et Android. 
+
+    - Il utilise le langage de programmation Dart pour créer des applications à interface utilisateur riche, réactives et performantes. Flutter permet également la création d’applications pour le web et le bureau. 
+
+    - Les avantages de Flutter incluent une productivité accrue grâce à son processus de rechargement la la page, une personnalisation et une flexibilité élevées grâce à ses widgets personnalisables, et une compatibilité avec les plateformes mobiles et Web. En somme, Flutter est un excellent choix pour les développeurs souhaitant créer des applications multiplateformes modernes, performantes et esthétiques.
+---
