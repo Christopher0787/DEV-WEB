@@ -36,3 +36,14 @@
 
     - Node JS (NVM)
 ---
+
+## **Package Manager :**
+
+    - NPM
+
+    - Yarn
+
+    - PNPM
+
+    - PHP WampServer, PVM
+---
