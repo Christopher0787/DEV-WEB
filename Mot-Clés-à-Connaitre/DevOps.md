@@ -38,3 +38,7 @@
 ### **Première peinture de contenu (FCP)**
     - Le FCP est une mesure de performance qui évalue le temps nécessaire à une page web pour afficher le premier élément du contenu DOM après que l'utilisateur l'a visitée. Il s'agit d'une mesure importante évaluée par Google pour évaluer les performances des pages web. En termes de contenu DOM, le FCP comprend les images, les éléments non blancs et les SVG, tandis que le contenu des iframes est considéré comme un contenu non DOM. Les développeurs web considèrent souvent le FCP comme un indicateur clé de l'expérience utilisateur et de l'efficacité du chargement des pages.
 ---
+
+### **Domaines**
+    - Les champs sont les éléments fondamentaux utilisés pour la collecte de données sur un site web. Ils servent d'unités de stockage où les visiteurs peuvent saisir et soumettre leurs informations personnelles, telles que noms, adresses électroniques, notes, etc.
+---
