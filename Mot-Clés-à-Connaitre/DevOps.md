@@ -53,3 +53,7 @@
 
 ## **Pourquoi les services de développement frontal sont plus importants que vous ne le pensez**
 ---
+
+### **Pleine pile :**
+    - Le développement complet fait référence à la capacité de travailler à la fois sur les aspects frontaux et dorsaux du développement web et sur la couche de base de données. Un développeur "full-stack" possède une compréhension et une expérience étendues de toutes les couches d'une pile technologique, ce qui lui permet de gérer divers aspects du processus de développement.
+---
