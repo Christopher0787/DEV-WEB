@@ -19,3 +19,6 @@
 ### **Déploiement**
     - Le déploiement consiste à rendre un site web ou une application accessible au public après l'avoir développé et testé. Il s'agit d'une série d'activités qui préparent et rendent un système logiciel disponible pour l'utilisation.
 ---
+
+## **Quels sont les avantages de DevOps et pourquoi l'utiliser pour votre entreprise ?**
+---
