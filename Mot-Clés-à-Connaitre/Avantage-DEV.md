@@ -40,3 +40,8 @@
 
     - L'architecture de l'information implique l'organisation et la présentation systématiques d'informations complexes de manière claire et logique. Dans le domaine de la conception de sites web et d'applications, elle se rapporte à la création d'une structure de navigation conviviale.
 ---
+
+## **JavaScript :**
+
+    - JavaScript est un langage de programmation très répandu, principalement utilisé comme langage côté client, intégré dans les pages HTML et envoyé aux navigateurs web. Les développeurs web utilisent JavaScript pour incorporer des automatismes, des animations et de l'interactivité dans les pages web, permettant ainsi une expérience dynamique et attrayante pour l'utilisateur. Il s'agit d'un langage de script polyvalent, connu pour sa capacité à fournir une pile technologique complète pour le développement de sites web frontaux et dorsaux.
+---
