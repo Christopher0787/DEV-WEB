@@ -34,3 +34,7 @@
 ### **Favicon**
     - Une favicon, abréviation de "icône favorite", est la petite icône affichée dans l'onglet du navigateur du site web.
 ---
+
+### **Première peinture de contenu (FCP)**
+    - Le FCP est une mesure de performance qui évalue le temps nécessaire à une page web pour afficher le premier élément du contenu DOM après que l'utilisateur l'a visitée. Il s'agit d'une mesure importante évaluée par Google pour évaluer les performances des pages web. En termes de contenu DOM, le FCP comprend les images, les éléments non blancs et les SVG, tandis que le contenu des iframes est considéré comme un contenu non DOM. Les développeurs web considèrent souvent le FCP comme un indicateur clé de l'expérience utilisateur et de l'efficacité du chargement des pages.
+---
