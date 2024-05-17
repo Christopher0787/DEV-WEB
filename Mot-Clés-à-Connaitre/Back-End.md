@@ -31,3 +31,7 @@
 ### **Appel à l'action (CTA)**
     - Les CTA sont des boutons ou des éléments d'un site web qui sont conçus pour inciter et conduire à des conversions ou à des objectifs spécifiques. Il peut s'agir de faire un don, de s'inscrire à une lettre d'information ou de s'enregistrer en tant qu'utilisateur.
 ---
+
+### **Feuilles de style en cascade (CSS)**
+    - CSS est un langage de codage qui indique aux navigateurs comment présenter les pages web aux utilisateurs. Il est responsable de la mise en forme des éléments visuels tels que les polices, les couleurs et d'autres composants stylistiques d'un site web.
+---
