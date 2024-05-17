@@ -35,3 +35,9 @@
 - Sauvegarde.
 
 ---
+
+## **Balises :** 
+
+- Partie de code de programmation destinée à la création et à la structure d’une page internet, ou utilisée par les moteurs de recherche afin de mieux analyser un élément.
+
+---
