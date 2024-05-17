@@ -42,3 +42,7 @@
 ### **Domaines**
     - Les champs sont les éléments fondamentaux utilisés pour la collecte de données sur un site web. Ils servent d'unités de stockage où les visiteurs peuvent saisir et soumettre leurs informations personnelles, telles que noms, adresses électroniques, notes, etc.
 ---
+
+### **Le cadre**
+    - Un framework est un ensemble de programmes et d'outils utilisés dans le développement de sites web ou de logiciels qui fournit une base pour la construction de sites web ou d'applications. Il simplifie le processus de développement en offrant une collection centralisée de solutions, d'outils et de composants.
+---
