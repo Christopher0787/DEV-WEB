@@ -61,3 +61,12 @@
     
     - Docker simplifie également le processus de déploiement et de gestion des applications, en permettant aux développeurs de créer des images de conteneurs qui peuvent être facilement distribuées et déployées.
 ---
+
+## **Radmin :**
+
+    - Radmin est un logiciel de contrôle à distance pour les ordinateurs Windows ce qu’il lui permet de transférer des fichiers, et de travailler ensemble avec d’autres utilisateurs en temps réel. 
+
+    - Radmin utilise une technologie de cryptage sécurisée pour garantir la sécurité des données lors des transferts. 
+
+    - Il est souvent utilisé dans les entreprises pour permettre aux employés d’accéder à leur ordinateur de bureau à distance, ou pour fournir un support technique à distance.
+---
