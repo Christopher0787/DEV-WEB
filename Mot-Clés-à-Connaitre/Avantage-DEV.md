@@ -35,3 +35,8 @@
 
     - Le "S" de HTTPS signifie sécurité, indiquant que toutes les communications entre le navigateur et le site web sont cryptées. Cette version sécurisée du protocole HTTP est utilisée pour la transmission de données entre un navigateur web et le site web connecté. HTTPS est généralement utilisé pour protéger les transactions en ligne sensibles, telles que les transactions bancaires et les achats en ligne, afin de garantir la confidentialité et la sécurité des données de l'utilisateur.
 ---
+
+## **Architecture de l'information :**
+
+    - L'architecture de l'information implique l'organisation et la présentation systématiques d'informations complexes de manière claire et logique. Dans le domaine de la conception de sites web et d'applications, elle se rapporte à la création d'une structure de navigation conviviale.
+---
