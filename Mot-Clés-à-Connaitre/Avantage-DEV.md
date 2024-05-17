@@ -15,3 +15,8 @@
 
     - Une interface graphique fait référence à la représentation visuelle et à la mise en page d'un site web, conçues pour l'interaction avec l'utilisateur.
 ---
+
+## **Hexagone :**
+
+    - La méthode de codage des couleurs la plus répandue est celle des codes de couleur hexagonaux, qui indiquent la quantité de couleur à afficher sur un écran.
+---
