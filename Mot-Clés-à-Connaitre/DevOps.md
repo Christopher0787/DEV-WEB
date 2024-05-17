@@ -26,3 +26,7 @@
 ### **Modèle d'objet de document (DOM)**
     - Le DOM est une interface indépendante du langage et multiplateforme utilisée dans la conception de sites web et d'applications. Elle présente les documents XML ou HTML sous la forme d'une structure arborescente hiérarchique, chaque nœud représentant un objet correspondant à une section spécifique du document. En termes simples, le DOM organise un document HTML ou XML en un arbre logique, permettant aux navigateurs de rendre et de manipuler son contenu.
 ---
+
+### **Domaine**
+    - Un domaine fait référence à l'adresse web saisie dans un navigateur. Il représente l'emplacement spécifique ou l'URL utilisé pour accéder à un site web.
+---
