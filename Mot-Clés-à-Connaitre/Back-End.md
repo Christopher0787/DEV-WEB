@@ -19,3 +19,7 @@
 ### **Navigateur**
     - Le programme que vous utilisez pour naviguer sur Internet, comme Chrome, Firefox ou Safari.
 ---
+
+### **Insecte**
+    - Un bug est une erreur ou une faille dans un site web ou une application qui perturbe sa fonctionnalité attendue, l'empêchant de fonctionner correctement.
+---
