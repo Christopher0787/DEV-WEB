@@ -70,3 +70,18 @@
 
     - Il est souvent utilisé dans les entreprises pour permettre aux employés d’accéder à leur ordinateur de bureau à distance, ou pour fournir un support technique à distance.
 ---
+
+## **Webstorm :**
+
+    - WebStorm est un environnement de développement intégré (IDE) conçu pour les développeurs web. 
+
+    - Il est développé par JetBrains et est utilisé pour la création d’applications web et mobiles. 
+
+    - Il est doté de fonctionnalités telles que l’achèvement du code, la navigation et la refonte du code, la syntaxe et l’analyse des erreurs, ainsi que la prise en charge de différents langages de programmation tels que HTML, CSS, JavaScript, Node.js et bien d’autres. 
+
+    - Il est également doté d’une fonctionnalité de débogage qui permet aux développeurs de détecter et de corriger les erreurs dans leur code. 
+
+    - De plus, WebStorm est livré avec un éditeur de code intégré qui permet aux développeurs de travailler sur plusieurs fichiers en même temps et de personnaliser leur environnement de travail en fonction de leurs préférences.
+
+    - WebStorm est un outil puissant et polyvalent pour les développeurs web qui leur permet de travailler efficacement et de créer des applications web de qualité.
+---
