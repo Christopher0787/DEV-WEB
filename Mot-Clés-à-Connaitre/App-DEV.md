@@ -1,4 +1,4 @@
-# **Les Application qua Besoin un Développeur Web sur son PC**
+# **Les Application qu'a Besoin un Développeur Web sur son PC**
 ---
 
 ## **Navigateur Web :**
