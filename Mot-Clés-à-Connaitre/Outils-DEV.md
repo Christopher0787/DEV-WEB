@@ -27,3 +27,12 @@
 
     - Voyons pourquoi vous avez tout intérêt à utiliser Ruby on Rails pour développer votre projet web.
 ---
+
+## **Reactive JS & React :**
+
+    - ReactJS est une bibliothèque JavaScript, prenant en charge le front et le back, permettant de créer des interfaces utilisateur et des applications Web. D’un autre côté nous avons React Native qui est un framework mobile. 
+
+    - C’est un ensemble de composants logiciels structurels qui sert à créer les fondations ainsi que les grandes lignes de tout ou partie d’un logiciel, c’est-à-dire une architecture compilant les composants d’applications natifs. 
+
+    - Il vous permet de créer des applications mobiles natives pour différentes plateformes (iOS, Android et Windows Mobile) en JavaScript, ce qui vous permet d’utiliser ReactJS pour créer vos composants. Les deux frameworks sont open source par Facebook.
+---
