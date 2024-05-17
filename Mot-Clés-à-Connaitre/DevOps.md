@@ -46,3 +46,7 @@
 ### **Le cadre**
     - Un framework est un ensemble de programmes et d'outils utilisés dans le développement de sites web ou de logiciels qui fournit une base pour la construction de sites web ou d'applications. Il simplifie le processus de développement en offrant une collection centralisée de solutions, d'outils et de composants.
 ---
+
+### **Front-end**
+    - Le front-end désigne le côté client d'un site web ou d'une application avec lequel les utilisateurs interagissent directement. Il implique la conception, la mise en page et la fonctionnalité de l'interface utilisateur, ainsi que la mise en œuvre d'éléments interactifs et de composants visuels à l'aide de HTML, CSS et JavaScript.
+---
