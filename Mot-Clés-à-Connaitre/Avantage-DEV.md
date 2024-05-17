@@ -25,3 +25,8 @@
 
     - Le HTML est un langage de codage utilisé pour construire des pages web et déterminer la manière dont elles sont affichées dans les navigateurs internet. Il implique l'utilisation de balises, d'éléments et d'attributs pour structurer et présenter des contenus tels que du texte, des images, des vidéos et des liens sur le web.
 ---
+
+## **HTTP (Hypertext Transfer Protocol) :**
+
+    - HTTP est un protocole de transmission de données sur l'internet. Il facilite l'échange d'informations en permettant le transfert de données d'un programme serveur HTTP à un programme client HTTP. HTTP est le principal protocole de transfert de données utilisé sur le World Wide Web.
+---
