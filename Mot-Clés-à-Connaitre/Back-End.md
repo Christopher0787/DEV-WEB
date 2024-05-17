@@ -15,3 +15,7 @@
 ### **Point d'arrêt**
     - Il s'agit de points spécifiques dans la conception d'un site web où la mise en page s'adapte à différentes tailles d'écran, garantissant une expérience optimale pour l'utilisateur qui consulte le site web à chaque taille.
 ---
+
+### **Navigateur**
+    - Le programme que vous utilisez pour naviguer sur Internet, comme Chrome, Firefox ou Safari.
+---
