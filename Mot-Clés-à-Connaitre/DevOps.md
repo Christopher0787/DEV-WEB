@@ -30,3 +30,7 @@
 ### **Domaine**
     - Un domaine fait référence à l'adresse web saisie dans un navigateur. Il représente l'emplacement spécifique ou l'URL utilisé pour accéder à un site web.
 ---
+
+### **Favicon**
+    - Une favicon, abréviation de "icône favorite", est la petite icône affichée dans l'onglet du navigateur du site web.
+---
