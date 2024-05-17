@@ -23,3 +23,7 @@
 ### **Insecte**
     - Un bug est une erreur ou une faille dans un site web ou une application qui perturbe sa fonctionnalité attendue, l'empêchant de fonctionner correctement.
 ---
+
+### **Cache**
+    - Un cache est un système de stockage temporaire de données qui améliore la vitesse du site en stockant les données pertinentes sur votre ordinateur lors de votre première visite sur un site web. Grâce à la mémoire cache, votre ordinateur n'a pas besoin de recharger toutes les informations puisqu'elles sont déjà enregistrées, ce qui accélère les temps de chargement.
+---
