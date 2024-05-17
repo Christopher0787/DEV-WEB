@@ -15,3 +15,7 @@
 ### **Débogage**
     - Le débogage consiste à identifier et à résoudre les problèmes, les erreurs ou les bogues dans le code ou les programmes logiciels. Il s'agit de dépanner et d'analyser systématiquement le code afin de trouver et de résoudre les problèmes susceptibles d'entraîner un comportement inattendu du logiciel ou de l'empêcher de fonctionner comme prévu.
 ---
+
+### **Déploiement**
+    - Le déploiement consiste à rendre un site web ou une application accessible au public après l'avoir développé et testé. Il s'agit d'une série d'activités qui préparent et rendent un système logiciel disponible pour l'utilisation.
+---
