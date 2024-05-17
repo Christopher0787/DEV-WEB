@@ -30,3 +30,8 @@
 
     - HTTP est un protocole de transmission de données sur l'internet. Il facilite l'échange d'informations en permettant le transfert de données d'un programme serveur HTTP à un programme client HTTP. HTTP est le principal protocole de transfert de données utilisé sur le World Wide Web.
 ---
+
+## **HTTPS :**
+
+    - Le "S" de HTTPS signifie sécurité, indiquant que toutes les communications entre le navigateur et le site web sont cryptées. Cette version sécurisée du protocole HTTP est utilisée pour la transmission de données entre un navigateur web et le site web connecté. HTTPS est généralement utilisé pour protéger les transactions en ligne sensibles, telles que les transactions bancaires et les achats en ligne, afin de garantir la confidentialité et la sécurité des données de l'utilisateur.
+---
