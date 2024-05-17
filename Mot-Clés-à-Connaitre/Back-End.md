@@ -4,3 +4,7 @@
 
 # **Les bases du développement backend**
 ---
+
+## **Tendances du développement des technologies dorsales à suivre en 2023.**
+---
+
