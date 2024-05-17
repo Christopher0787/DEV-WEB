@@ -17,3 +17,9 @@
 - Inversement, le développeur back-end interviendra principalement sur le back-office ainsi que sur tous les éléments d’un projet web qui sont « invisibles » mais indispensables lorsque l’on navigue sur un site Internet.
 
 ---
+
+## **Back-office :** 
+
+- Terme qui désigne la partie administrative d’un site web (également appelé CMS).
+
+---
