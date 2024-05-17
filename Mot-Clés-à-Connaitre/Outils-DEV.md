@@ -45,3 +45,10 @@
 
     - Les avantages de Flutter incluent une productivité accrue grâce à son processus de rechargement la la page, une personnalisation et une flexibilité élevées grâce à ses widgets personnalisables, et une compatibilité avec les plateformes mobiles et Web. En somme, Flutter est un excellent choix pour les développeurs souhaitant créer des applications multiplateformes modernes, performantes et esthétiques.
 ---
+
+## **Figma :**
+
+    - Figma est un éditeur de graphiques vectoriels et un outil de prototypage interactifs qui permet de créer des maquettes et des designs pour des applications web et mobiles. 
+
+    - Il est utile pour les équipes de conception qui travaillent à distance ou qui souhaite travailler sur le même projet en temps réel. Figma offre également des fonctionnalités de partage et de commentaires, ce qui facilite la communication entre les membres de l’équipe et les clients. 
+---
