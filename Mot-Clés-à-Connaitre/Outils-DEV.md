@@ -52,3 +52,12 @@
 
     - Il est utile pour les équipes de conception qui travaillent à distance ou qui souhaite travailler sur le même projet en temps réel. Figma offre également des fonctionnalités de partage et de commentaires, ce qui facilite la communication entre les membres de l’équipe et les clients. 
 ---
+
+## **Docker :**
+
+    - Docker est un logiciel de conteneurisation qui permet de créer, déployer et exécuter des applications dans des conteneurs. 
+
+    - Ce logiciel aide les développeurs à créer des applications qui peuvent être exécutées de manière cohérente et fiable sur différents environnements. 
+    
+    - Docker simplifie également le processus de déploiement et de gestion des applications, en permettant aux développeurs de créer des images de conteneurs qui peuvent être facilement distribuées et déployées.
+---
