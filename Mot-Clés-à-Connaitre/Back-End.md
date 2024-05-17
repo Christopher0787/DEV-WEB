@@ -35,3 +35,7 @@
 ### **Feuilles de style en cascade (CSS)**
     - CSS est un langage de codage qui indique aux navigateurs comment présenter les pages web aux utilisateurs. Il est responsable de la mise en forme des éléments visuels tels que les polices, les couleurs et d'autres composants stylistiques d'un site web.
 ---
+
+### **CI/CD**
+    - CI/CD, abréviation de continuous integration and continuous delivery (intégration et livraison continues), est une approche qui permet de livrer fréquemment des applications aux clients grâce à l'automatisation des différentes étapes du développement de l'application. Elle permet de relever les défis liés à l'intégration de nouveaux codes dans les bases de code existantes. En mettant en œuvre l'intégration et la livraison continues, les équipes de développement et d'exploitation peuvent déployer plus rapidement les mises à jour et les fonctionnalités des applications.
+---
