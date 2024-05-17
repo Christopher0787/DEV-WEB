@@ -1,41 +1,65 @@
-# **Back-end**
-    - Le back-end désigne le côté serveur d'un site web ou d'une application où les données sont traitées, stockées et récupérées. Il comprend l'infrastructure, les bases de données et la logique qui permettent la fonctionnalité de l'interface et les interactions avec l'utilisateur.
+# **Back-end :**
+    - Le back-end désigne le côté serveur d'un site web ou d'une application où les données sont traitées, stockées et récupérées. 
+    
+    - Il comprend l'infrastructure, les bases de données et la logique qui permettent la fonctionnalité de l'interface et les interactions avec l'utilisateur.
 ---
 
-# **Les bases du développement backend**
+# **Les bases du développement backend :**
 ---
 
-## **Tendances du développement des technologies dorsales à suivre en 2023.**
+## **Tendances du développement des technologies dorsales à suivre en 2023 :**
 ---
 
-### **Bootstrap**
-    - Bootstrap est un framework frontal populaire, gratuit et open-source utilisé dans la conception de sites web et d'applications web. Développé à l'origine sur Twitter par Mark Otto et Jacob Thornton, Bootstrap apporte de l'uniformité à la conception des sites web. Il est construit sur HTML et CSS, offrant divers modèles de conception et des éléments tels que les formulaires, la typographie, les tableaux, les boutons, les fenêtres modales, et plus encore.
+### **Bootstrap :**
+
+    - Bootstrap est un framework frontal populaire, gratuit et open-source utilisé dans la conception de sites web et d'applications web. 
+    
+    - Développé à l'origine sur Twitter par Mark Otto et Jacob Thornton, Bootstrap apporte de l'uniformité à la conception des sites web. 
+    
+    - Il est construit sur HTML et CSS, offrant divers modèles de conception et des éléments tels que les formulaires, la typographie, les tableaux, les boutons, les fenêtres modales, et plus encore.
 ---
 
-### **Point d'arrêt**
+### **Point d'arrêt :**
+
     - Il s'agit de points spécifiques dans la conception d'un site web où la mise en page s'adapte à différentes tailles d'écran, garantissant une expérience optimale pour l'utilisateur qui consulte le site web à chaque taille.
 ---
 
-### **Navigateur**
+### **Navigateur :**
+
     - Le programme que vous utilisez pour naviguer sur Internet, comme Chrome, Firefox ou Safari.
 ---
 
-### **Insecte**
+### **Insecte :**
+
     - Un bug est une erreur ou une faille dans un site web ou une application qui perturbe sa fonctionnalité attendue, l'empêchant de fonctionner correctement.
 ---
 
-### **Cache**
-    - Un cache est un système de stockage temporaire de données qui améliore la vitesse du site en stockant les données pertinentes sur votre ordinateur lors de votre première visite sur un site web. Grâce à la mémoire cache, votre ordinateur n'a pas besoin de recharger toutes les informations puisqu'elles sont déjà enregistrées, ce qui accélère les temps de chargement.
+### **Cache :**
+
+    - Un cache est un système de stockage temporaire de données qui améliore la vitesse du site en stockant les données pertinentes sur votre ordinateur lors de votre première visite sur un site web. 
+    
+    - Grâce à la mémoire cache, votre ordinateur n'a pas besoin de recharger toutes les informations puisqu'elles sont déjà enregistrées, ce qui accélère les temps de chargement.
 ---
 
-### **Appel à l'action (CTA)**
-    - Les CTA sont des boutons ou des éléments d'un site web qui sont conçus pour inciter et conduire à des conversions ou à des objectifs spécifiques. Il peut s'agir de faire un don, de s'inscrire à une lettre d'information ou de s'enregistrer en tant qu'utilisateur.
+### **Appel à l'action (CTA) :**
+
+    - Les CTA sont des boutons ou des éléments d'un site web qui sont conçus pour inciter et conduire à des conversions ou à des objectifs spécifiques. 
+    
+    - Il peut s'agir de faire un don, de s'inscrire à une lettre d'information ou de s'enregistrer en tant qu'utilisateur.
 ---
 
-### **Feuilles de style en cascade (CSS)**
-    - CSS est un langage de codage qui indique aux navigateurs comment présenter les pages web aux utilisateurs. Il est responsable de la mise en forme des éléments visuels tels que les polices, les couleurs et d'autres composants stylistiques d'un site web.
+### **Feuilles de style en cascade (CSS) :**
+
+    - CSS est un langage de codage qui indique aux navigateurs comment présenter les pages web aux utilisateurs. 
+    
+    - Il est responsable de la mise en forme des éléments visuels tels que les polices, les couleurs et d'autres composants stylistiques d'un site web.
 ---
 
-### **CI/CD**
-    - CI/CD, abréviation de continuous integration and continuous delivery (intégration et livraison continues), est une approche qui permet de livrer fréquemment des applications aux clients grâce à l'automatisation des différentes étapes du développement de l'application. Elle permet de relever les défis liés à l'intégration de nouveaux codes dans les bases de code existantes. En mettant en œuvre l'intégration et la livraison continues, les équipes de développement et d'exploitation peuvent déployer plus rapidement les mises à jour et les fonctionnalités des applications.
+### **CI/CD :**
+
+    - CI/CD, abréviation de continuous integration and continuous delivery (intégration et livraison continues), est une approche qui permet de livrer fréquemment des applications aux clients grâce à l'automatisation des différentes étapes du développement de l'application. 
+    
+    - Elle permet de relever les défis liés à l'intégration de nouveaux codes dans les bases de code existantes. 
+    
+    - En mettant en œuvre l'intégration et la livraison continues, les équipes de développement et d'exploitation peuvent déployer plus rapidement les mises à jour et les fonctionnalités des applications.
 ---
