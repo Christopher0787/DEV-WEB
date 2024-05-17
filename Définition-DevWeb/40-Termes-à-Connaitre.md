@@ -7,4 +7,13 @@
 ## **API :** 
 
 - (Application Programming Interface) Il s’agit d’un ensemble de fonctions qui permettent d’accéder aux services d’une application, via un langage de programmation.
+
+---
+
+## **Back-end / Front-end :** 
+
+- En travaillant en front-end, un développeur prend principalement en charge la création d’une interface claire et simple pour les internautes. 
+
+- Inversement, le développeur back-end interviendra principalement sur le back-office ainsi que sur tous les éléments d’un projet web qui sont « invisibles » mais indispensables lorsque l’on navigue sur un site Internet.
+
 ---
