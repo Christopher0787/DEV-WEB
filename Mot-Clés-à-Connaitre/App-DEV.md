@@ -29,3 +29,10 @@
 
     - VLC media player
 ---
+
+## **Outil de Versioning (GIT) :**
+
+    - Git
+
+    - Node JS (NVM)
+---
