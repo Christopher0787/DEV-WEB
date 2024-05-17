@@ -11,3 +11,10 @@
 
     - Brave
 ---
+
+## **Editeur de Code (IDE) :**
+
+    - Visual Studio Code
+
+    - Sublime Text
+---
