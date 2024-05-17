@@ -18,3 +18,14 @@
 
     - Sublime Text
 ---
+
+## **Utilitraires :**
+
+    - 7 Zip
+
+    - Cmder
+
+    - FileZilla
+
+    - VLC media player
+---
