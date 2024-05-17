@@ -85,3 +85,32 @@
 
     - WebStorm est un outil puissant et polyvalent pour les développeurs web qui leur permet de travailler efficacement et de créer des applications web de qualité.
 ---
+
+## **Les outils de google :**
+
+    - Google PageSpeed Insights: C’est un outil qui évalue la vitesse de chargement de votre site web et fournit des recommandations pour améliorer les performances.
+
+    - Google Search Console: C’est un outil qui permet de suivre et d’analyser la performance de votre site dans les résultats de recherche de Google.
+
+    -  Il fournit également des informations sur les erreurs d’exploration et les problèmes de sécurité.
+
+        • l’apparence dans les résultats de recherche,
+
+        • le trafic de recherche,
+
+        • l’index Google,
+
+        • l’exploration.
+
+        • l’ergonomie et l’optimisation de votre site web ou votre application 
+
+    - Google analytics:  Cet outil va vous permettre d’analyser le comportement des internautes qui visitent votre site et de mesurer le retour de vos actions web marketing.
+
+        • Étudiez vos clients
+
+        • Améliorer votre ROI
+
+        • Associez vos insights aux résultats
+
+    - Le choix du logiciel dépendra des besoins spécifiques de chaque projet. En utilisant l’un de ces outils, les développeurs peuvent améliorer leur productivité et leur efficacité dans la création de sites web professionnelle.
+---
