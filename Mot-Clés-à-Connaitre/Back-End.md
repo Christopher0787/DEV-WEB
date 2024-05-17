@@ -8,3 +8,6 @@
 ## **Tendances du développement des technologies dorsales à suivre en 2023.**
 ---
 
+### **Bootstrap**
+    - Bootstrap est un framework frontal populaire, gratuit et open-source utilisé dans la conception de sites web et d'applications web. Développé à l'origine sur Twitter par Mark Otto et Jacob Thornton, Bootstrap apporte de l'uniformité à la conception des sites web. Il est construit sur HTML et CSS, offrant divers modèles de conception et des éléments tels que les formulaires, la typographie, les tableaux, les boutons, les fenêtres modales, et plus encore.
+---
