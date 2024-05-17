@@ -20,3 +20,8 @@
 
     - La méthode de codage des couleurs la plus répandue est celle des codes de couleur hexagonaux, qui indiquent la quantité de couleur à afficher sur un écran.
 ---
+
+## **HTML (langage de balisage hypertexte) :**
+
+    - Le HTML est un langage de codage utilisé pour construire des pages web et déterminer la manière dont elles sont affichées dans les navigateurs internet. Il implique l'utilisation de balises, d'éléments et d'attributs pour structurer et présenter des contenus tels que du texte, des images, des vidéos et des liens sur le web.
+---
