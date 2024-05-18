@@ -1,54 +1,61 @@
 # **Les Application qu'a Besoin un Développeur Web sur son PC**
+
 ---
 
 ## **Navigateur Web :**
 
-    - Chrome
+- Chrome
 
-    - Microsoft Edge
+- Microsoft Edge
 
-    - Firefox
+- Firefox
 
-    - Brave
+- Brave
+
 ---
 
 ## **Editeur de Code (IDE) :**
 
-    - Visual Studio Code
+- Visual Studio Code
 
-    - Sublime Text
+- Sublime Text
+
 ---
 
 ## **Utilitraires :**
 
-    - 7 Zip
+- 7 Zip
 
-    - Cmder
+- Cmder
 
-    - FileZilla
+- FileZilla
 
-    - VLC media player
+- VLC media player
+
 ---
 
 ## **Outil de Versioning (GIT) :**
 
-    - Git
+- Git
 
-    - Node JS (NVM)
+- Node JS (NVM)
+
 ---
 
 ## **Package Manager :**
 
-    - NPM
+- NPM
 
-    - Yarn
+- Yarn
 
-    - PNPM
+- PNPM
 
-    - PHP WampServer, PVM
+- PHP WampServer, PVM
+
 ---
 
 ## **Composer :**
 
-    - Docker
+- Docker
+
 ---
