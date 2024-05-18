@@ -167,3 +167,11 @@
 - Le PO a pour mission principale de définir et conceptualiser un produit qui saura apporter le maximum de valeur aux utilisateurs, dans le temps et le budget impartis au projet.
 
 ---
+
+## **Plug-in :** 
+
+- Extension qui ajoute des fonctionnalités aux logiciels. 
+
+- Ces programmes complémentaires permettent par exemple aux navigateurs de lire certains formats d’image, de vidéo, d’animation ou de son, etc.
+
+---
