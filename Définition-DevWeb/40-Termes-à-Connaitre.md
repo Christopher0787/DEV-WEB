@@ -63,3 +63,9 @@
 - Cahier des charges. Les professionnels évoluant en méthodes agiles y ont moins recours, mais le CDC reste encore aujourd’hui une pratique courante.
 
 ---
+
+## **Codage :** 
+
+- Action réalisée par un programmeur qui écrit le code source d’un programme et le compile.
+
+---
