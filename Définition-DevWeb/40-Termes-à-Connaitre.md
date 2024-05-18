@@ -207,3 +207,9 @@
 - Vérification de la conformité fonctionnelle et technique d’un produit en cours ou à la fin de sa conception et de son développement.
 
 ---
+
+## **Refonte :** 
+
+- Modifier totalement ou en partie un site internet ou une application.
+
+---
