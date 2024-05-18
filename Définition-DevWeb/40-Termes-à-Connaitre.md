@@ -235,3 +235,11 @@
 - Méthode de développement agile, animée par un ScrumMaster
 
 ---
+
+## **Système d’exploitation :** 
+
+- (SE ou OS en anglais) ensemble des programmes informatiques qui pilote les différents composants de l’appareil informatique (disque dur, écran, processeur, mémoire etc…) et qui lui permet donc de fonctionner. 
+
+- Il gère également la mémoire, les supports de stockage et les droits d’accès des utilisateurs.
+
+---
