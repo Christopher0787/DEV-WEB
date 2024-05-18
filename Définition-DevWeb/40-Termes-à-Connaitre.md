@@ -153,3 +153,9 @@
 - Les méthodes agiles se déclinent en de nombreuses versions ou applications, dont deux des plus répandues sont la méthode Scrum et la méthode Kanban.
 
 ---
+
+## **Mise en production :** 
+
+- Mise en place d’une application informatique dans son contexte réel d’utilisation (environnement technique et logiciel) ainsi que de tous les éléments requis pour son exploitation et sa pérennité.
+
+---
