@@ -113,3 +113,11 @@
 - Se dit d’un développeur qui travaille sur toutes les strates de développement.
 
 ---
+
+## **IDE :** 
+
+- Logiciel de développement utilisé pour réaliser le code source, compiler, lancer des tests… 
+
+- C’est l’outil principal qu’utilise tous les jours un développeur.
+
+---
