@@ -55,3 +55,11 @@
 - Site Web caractérisé par la publication régulière de billets ou de « post », à l’image d’un journal de bord. 
 
 - Le blogueur (rédacteur qui tient le blog) y rédige un contenu souvent textuel, enrichi d’hyperliens et d’éléments multimédias, sous lequel chaque lecteur peut généralement apporter des commentaires.
+
+---
+
+## **CDC :** 
+
+- Cahier des charges. Les professionnels évoluant en méthodes agiles y ont moins recours, mais le CDC reste encore aujourd’hui une pratique courante.
+
+---
