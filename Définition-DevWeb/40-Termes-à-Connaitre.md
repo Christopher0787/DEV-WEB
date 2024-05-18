@@ -229,3 +229,9 @@
 - De nombreuses entreprises utilisent également des serveurs pour héberger et « servir » leurs sites Internet et leurs données d’applications (via une API, par exemple).
 
 ---
+
+## **Scrum :** 
+
+- Méthode de développement agile, animée par un ScrumMaster
+
+---
