@@ -85,3 +85,9 @@
 - Générer le code exécutable d’un programme à partir du code source.
 
 ---
+
+## **Développer :** 
+
+- Réaliser une application ou un site web.
+
+---
