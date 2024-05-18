@@ -137,3 +137,11 @@
 - Parmi les langages les plus utilisés, citons par exemple Java, JavaScript, PHP, SQL, J2EE, HTML, .NET…
 
 ---
+
+## **Lead dev :** 
+
+- Développeur référent, qui peut être référent sur une technologie en particulier ou sur un produit. 
+
+- Il n’y a donc pas forcément de notion hiérarchique.
+
+---
