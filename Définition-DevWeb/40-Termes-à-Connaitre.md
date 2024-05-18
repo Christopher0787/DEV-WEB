@@ -97,3 +97,13 @@
 - Fonctionnalité d’une application ou d’un site web en développement.
 
 ---
+
+## **Framework :** 
+
+- Ensemble d’outils et de composants logiciels à la base d’un logiciel ou d’une application. 
+
+- C’est le framework (structure logicielle en français) qui établit l’ensemble ou une partie des fondations d’un logiciel ou son squelette. 
+
+- Il existe aujourd’hui différents types de frameworks.
+
+---
