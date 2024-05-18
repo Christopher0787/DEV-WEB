@@ -121,3 +121,11 @@
 - C’est l’outil principal qu’utilise tous les jours un développeur.
 
 ---
+
+## **Intégration :** 
+
+- Consiste à réunir au sein d’un même système d’information, des parties développées de façon séparées. 
+
+- L’intégration peut également consister à la tâche effectuée par le développeur Front-End (aussi appelé intégrateur).
+
+---
