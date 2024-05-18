@@ -41,3 +41,11 @@
 - Partie de code de programmation destinée à la création et à la structure d’une page internet, ou utilisée par les moteurs de recherche afin de mieux analyser un élément.
 
 ---
+
+## **Base de données :** 
+
+- Ensemble de données propres à un domaine déterminé, et organisées de manière à pouvoir être facilement retrouvées et mises à jour. 
+
+- Quand elle est informatisée, la base de données se matérialise par un ou plusieurs fichiers, qui sont gérés par un logiciel spécialisé.
+
+---
