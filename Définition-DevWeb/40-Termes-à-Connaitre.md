@@ -145,3 +145,11 @@
 - Il n’y a donc pas forcément de notion hiérarchique.
 
 ---
+
+## **Méthodes agiles :** 
+
+- Méthodes de gestion et de développement, particulièrement adaptées aux projets ou programmes informatiques, et qui fonctionnent sur la base de l’itératif (partir d’une idée grossière que les équipes affinent par retouches successives, chacune améliorant la qualité et peaufinant l’idée de départ) et l’incrémental (idée initiale complètement formée, que l’on construit ensuite morceau par morceau, jusqu’à la livraison du produit fini). 
+
+- Les méthodes agiles se déclinent en de nombreuses versions ou applications, dont deux des plus répandues sont la méthode Scrum et la méthode Kanban.
+
+---
