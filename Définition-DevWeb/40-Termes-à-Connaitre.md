@@ -183,3 +183,13 @@
 - L’organisation des instructions est conçue et rédigée par un programmeur dans un langage de programmation.
 
 ---
+
+## **Programmer :** 
+
+- Réaliser un programme informatique. 
+
+- La phase de programmation n’inclut généralement que les actions de codage, et non celles de conception ou de test. 
+
+- Mais il est possible de programmer également des tests automatisés (réalisés en code).
+
+---
