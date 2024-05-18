@@ -193,3 +193,11 @@
 - Mais il est possible de programmer également des tests automatisés (réalisés en code).
 
 ---
+
+## **Proxy :** 
+
+- Un ordinateur ou un module qui sert d’intermédiaire entre un navigateur Web et Internet. 
+
+- Le proxy participe à la sécurité et à la performance du réseau en sécurisant et améliorant l’accès à certaines pages Web.
+
+---
