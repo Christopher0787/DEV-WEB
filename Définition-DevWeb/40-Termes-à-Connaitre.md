@@ -213,3 +213,9 @@
 - Modifier totalement ou en partie un site internet ou une application.
 
 ---
+
+## **Repository (ou « Repo ») :** 
+
+- Entrepôt de code, gestionnaire de code source.
+
+---
