@@ -80,3 +80,8 @@
 
 ---
 
+## **Compiler :** 
+
+- Générer le code exécutable d’un programme à partir du code source.
+
+---
