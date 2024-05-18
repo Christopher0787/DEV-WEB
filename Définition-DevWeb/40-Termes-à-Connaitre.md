@@ -159,3 +159,11 @@
 - Mise en place d’une application informatique dans son contexte réel d’utilisation (environnement technique et logiciel) ainsi que de tous les éléments requis pour son exploitation et sa pérennité.
 
 ---
+
+## **Product Owner (ou « PO ») :** 
+
+- Rôle au sein de l’organisation d’une équipe Agile utilisant la méthodologie SCRUM. 
+
+- Le PO a pour mission principale de définir et conceptualiser un produit qui saura apporter le maximum de valeur aux utilisateurs, dans le temps et le budget impartis au projet.
+
+---
