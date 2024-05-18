@@ -69,3 +69,14 @@
 - Action réalisée par un programmeur qui écrit le code source d’un programme et le compile.
 
 ---
+
+## **Code source :** 
+
+- Version d’un programme que l’humain peut comprendre. 
+
+- En d’autres termes, les instructions du programme sont rédigées dans un langage de programmation créé et maîtrisé par l’homme. 
+
+- Inversement, le code exécutable est la version compilée du code source, qui prend la forme d’une suite de codes binaires compréhensible de l’ordinateur seulement.
+
+---
+
