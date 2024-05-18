@@ -129,3 +129,11 @@
 - L’intégration peut également consister à la tâche effectuée par le développeur Front-End (aussi appelé intégrateur).
 
 ---
+
+## **Langages de programmation :** 
+
+- langage permettant de formuler des algorithmes et de produire des programmes informatiques qui appliquent ces algorithmes. 
+
+- Parmi les langages les plus utilisés, citons par exemple Java, JavaScript, PHP, SQL, J2EE, HTML, .NET…
+
+---
