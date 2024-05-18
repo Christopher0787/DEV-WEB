@@ -107,3 +107,9 @@
 - Il existe aujourd’hui différents types de frameworks.
 
 ---
+
+## **Full-Stack :**
+
+- Se dit d’un développeur qui travaille sur toutes les strates de développement.
+
+---
