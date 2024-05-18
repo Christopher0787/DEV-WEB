@@ -201,3 +201,9 @@
 - Le proxy participe à la sécurité et à la performance du réseau en sécurisant et améliorant l’accès à certaines pages Web.
 
 ---
+
+## **Recette :** 
+
+- Vérification de la conformité fonctionnelle et technique d’un produit en cours ou à la fin de sa conception et de son développement.
+
+---
