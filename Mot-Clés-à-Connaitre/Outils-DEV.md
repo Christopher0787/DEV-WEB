@@ -112,13 +112,13 @@
 
     • l’exploration.
 
-       • l’ergonomie et l’optimisation de votre site web ou votre application 
+    • l’ergonomie et l’optimisation de votre site web ou votre application 
 
 - Google analytics:  Cet outil va vous permettre d’analyser le comportement des internautes qui visitent votre site et de mesurer le retour de vos actions web marketing.
 
     • Étudiez vos clients
 
-     • Améliorer votre ROI
+    • Améliorer votre ROI
 
     • Associez vos insights aux résultats
 
