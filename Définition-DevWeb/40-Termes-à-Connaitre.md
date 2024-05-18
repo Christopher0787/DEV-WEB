@@ -49,3 +49,9 @@
 - Quand elle est informatisée, la base de données se matérialise par un ou plusieurs fichiers, qui sont gérés par un logiciel spécialisé.
 
 ---
+
+## **Blog :** 
+
+- Site Web caractérisé par la publication régulière de billets ou de « post », à l’image d’un journal de bord. 
+
+- Le blogueur (rédacteur qui tient le blog) y rédige un contenu souvent textuel, enrichi d’hyperliens et d’éléments multimédias, sous lequel chaque lecteur peut généralement apporter des commentaires.
