@@ -251,3 +251,13 @@
 - Exemples : test d’intégration, test de non-régression, test de performance, test de réception, test unitaire, test de validation.
 
 ---
+
+## **Tests unitaires (ou TU) :** 
+
+- Tests réalisés par du code (souvent avec des Frameworks dédiés).Nous sommes nombreux à travailler dans le web et à collaborer de près ou de loin avec des développeurs. 
+
+- Voici une liste de mots ou expressions indispensables à connaître pour ceux qui s’intéressent à ce domaine. 
+
+- Ce glossaire regroupe tous les termes et leurs définitions, relatifs aux outils, aux tâches, aux supports, etc. des développeurs.
+
+---
