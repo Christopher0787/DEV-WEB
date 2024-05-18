@@ -10,11 +10,11 @@
 
 ---
 
-## **Tendances du développement des technologies dorsales à suivre en 2023 :**
+# **Tendances du développement des technologies dorsales à suivre en 2023 :**
 
 ---
 
-### **Bootstrap :**
+## **Bootstrap :**
 
 - Bootstrap est un framework frontal populaire, gratuit et open-source utilisé dans la conception de sites web et d'applications web. 
     
@@ -24,25 +24,25 @@
 
 ---
 
-### **Point d'arrêt :**
+## **Point d'arrêt :**
 
 - Il s'agit de points spécifiques dans la conception d'un site web où la mise en page s'adapte à différentes tailles d'écran, garantissant une expérience optimale pour l'utilisateur qui consulte le site web à chaque taille.
 
 ---
 
-### **Navigateur :**
+## **Navigateur :**
 
 - Le programme que vous utilisez pour naviguer sur Internet, comme Chrome, Firefox ou Safari.
 
 ---
 
-### **Insecte :**
+## **Insecte :**
 
 - Un bug est une erreur ou une faille dans un site web ou une application qui perturbe sa fonctionnalité attendue, l'empêchant de fonctionner correctement.
 
 ---
 
-### **Cache :**
+## **Cache :**
 
 - Un cache est un système de stockage temporaire de données qui améliore la vitesse du site en stockant les données pertinentes sur votre ordinateur lors de votre première visite sur un site web. 
     
@@ -50,7 +50,7 @@
 
 ---
 
-### **Appel à l'action (CTA) :**
+## **Appel à l'action (CTA) :**
 
 - Les CTA sont des boutons ou des éléments d'un site web qui sont conçus pour inciter et conduire à des conversions ou à des objectifs spécifiques. 
     
@@ -58,7 +58,7 @@
 
 ---
 
-### **Feuilles de style en cascade (CSS) :**
+## **Feuilles de style en cascade (CSS) :**
 
 - CSS est un langage de codage qui indique aux navigateurs comment présenter les pages web aux utilisateurs. 
     
@@ -66,7 +66,7 @@
 
 ---
 
-### **CI/CD :**
+## **CI/CD :**
 
 - CI/CD, abréviation de continuous integration and continuous delivery (intégration et livraison continues), est une approche qui permet de livrer fréquemment des applications aux clients grâce à l'automatisation des différentes étapes du développement de l'application. 
     
