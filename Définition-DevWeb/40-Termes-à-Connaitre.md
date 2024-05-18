@@ -219,3 +219,13 @@
 - Entrepôt de code, gestionnaire de code source.
 
 ---
+
+## **Serveur :** 
+
+- Ordinateur dont les données (fichiers) sont partagées en interne, via l’intranet (réseau interne d’une entreprise) ou l’extranet. 
+
+- Le serveur est relié au monde extérieur par internet. 
+
+- De nombreuses entreprises utilisent également des serveurs pour héberger et « servir » leurs sites Internet et leurs données d’applications (via une API, par exemple).
+
+---
