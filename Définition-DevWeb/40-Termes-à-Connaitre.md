@@ -175,3 +175,11 @@
 - Ces programmes complémentaires permettent par exemple aux navigateurs de lire certains formats d’image, de vidéo, d’animation ou de son, etc.
 
 ---
+
+## **Programme :** 
+
+- Ensemble d’instructions effectuant des actions sur un ordinateur. 
+
+- L’organisation des instructions est conçue et rédigée par un programmeur dans un langage de programmation.
+
+---
