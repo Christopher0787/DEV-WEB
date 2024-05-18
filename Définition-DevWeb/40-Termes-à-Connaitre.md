@@ -243,3 +243,11 @@
 - Il gère également la mémoire, les supports de stockage et les droits d’accès des utilisateurs.
 
 ---
+
+## **Tests :** 
+
+- Contrôles effectués au cours des différentes phases d’un projet (ou cycle de vie) afin de vérifier l’adéquation entre ce qui est livré et ce qui était attendu pour chaque phase. 
+
+- Exemples : test d’intégration, test de non-régression, test de performance, test de réception, test unitaire, test de validation.
+
+---
