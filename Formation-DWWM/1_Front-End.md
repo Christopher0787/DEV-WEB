@@ -64,8 +64,7 @@ avec l’installation et la configuration d’un environnement de travail.
 
 * Travailler en équipe
 
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Connaissance des différents environnements de développement intégrés
 
