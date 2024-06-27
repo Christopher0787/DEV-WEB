@@ -1,7 +1,7 @@
 # **INSTALLER ET CONFIGURER SON ENVIRONNEMENT DE TRAVAIL EN FONCTION DU PROJET WEB OU WEB MOBILE :**
 ---
 
-## **1.Développer la partie Front-End d'une application Web ou Web mobile sécurisée :**
+## **1. Développer la partie Front-End d'une application Web ou Web mobile sécurisée :**
 ---
 
 ### **Description de la compétence – processus de mise en œuvre**
