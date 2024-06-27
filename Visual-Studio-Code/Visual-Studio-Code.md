@@ -18,17 +18,17 @@
 ## **POUQUOI UTILISER VISUAL STUDIO CODE ? :**
 
 
-Visual Studio fournit aux développeurs un environnement de développement riche en fonctionnalités pour développer du code de haute qualité de manière efficace et collaborative.
+* Visual Studio fournit aux développeurs un environnement de développement riche en fonctionnalités pour développer du code de haute qualité de manière efficace et collaborative.
 
-    • Programme d’installation basé sur une charge de travail : installez uniquement ce dont vous avez besoin
+        • Programme d’installation basé sur une charge de travail : installez uniquement ce dont vous avez besoin
 
-    • Outils et fonctionnalités de codage puissants : tout ce dont vous avez besoin pour créer vos applications au même endroit
+        • Outils et fonctionnalités de codage puissants : tout ce dont vous avez besoin pour créer vos applications au même endroit
 
-    • Prise en charge de plusieurs langages : codez en C++, C#, JavaScript, TypeScript, Python, etc.
+        • Prise en charge de plusieurs langages : codez en C++, C#, JavaScript, TypeScript, Python, etc.
 
-    • Développement multiplateforme : créez des applications pour n’importe quelle plateforme
+        • Développement multiplateforme : créez des applications pour n’importe quelle plateforme
 
-    • Intégration de la gestion de version : collaborez sur du code avec des collègues de votre équipe
+        • Intégration de la gestion de version : collaborez sur du code avec des collègues de votre équipe
 
-    • Développement assisté par l’IA – écrire du code plus efficacement avec l’aide de l’IA
+        • Développement assisté par l’IA – écrire du code plus efficacement avec l’aide de l’IA
 ---
