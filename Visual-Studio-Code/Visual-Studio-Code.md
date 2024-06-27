@@ -1,6 +1,34 @@
 # **Qu'est-ce que Visual Studio Code ? :**
 ---
 
+## **INSTALLATION DE VISUAL :**
+
+* Sélectionnez le bouton suivant pour installer Visual Studio, puis choisissez l’édition de votre choix.
+
+
+### **COMMENCER :**
+
+    - Pour développer tout type d’application ou apprendre un langage, vous allez utiliser l’environnement de développement intégré (IDE) Visual Studio. 
+
+    - Découvrez Visual Studio plus en détail en consultant l’un de ces articles de présentation :
+
+        • Visite guidée de l’environnement IDE pour vous familiariser avec les fonctionnalités de l’IDE et découvrir comment l’utiliser pour des tâches de base.
+
+        • Parcourir les bases de ce module Learn : Introduction à Visual Studio
+
+        • Explorez plus de code en suivant l’un des tutoriels qui portent sur un langage spécifique :
+    
+            • Créer une application console C# simple
+
+            • Bien démarrer avec Python
+
+            • Créer une application console VB simple
+
+            • Créer une application console C++
+            
+            • Créer une application Node.js et Express
+
+
 ## **INTRODUCTION :**
 
 
@@ -190,7 +218,8 @@
         • Community – IDE gratuit et riche en fonctionnalités pour les étudiants, et les développeurs open source et individuels
 
         • Professional : option basée sur un abonnement pour les développeurs individuels ou les petites équipes.
-        
+
         • Enterprise : option basée sur un abonnement pour les petites et grandes entreprises, et les organisations d’entreprise.
 
 * Comparez les fonctionnalités des différentes éditions de Visual Studio et achetez l’édition de Visual Studio qui correspond le mieux à vos besoins.
+---
