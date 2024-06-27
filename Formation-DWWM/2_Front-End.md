@@ -37,7 +37,7 @@ développeur web ou web mobile.
 projet choisie, séquentielle ou itérative.
 
 * Selon les projets, la communication écrite et orale peut s’effectuer en anglais avec les acteurs concernés.
-
+---
 
 ### **Critères de performance**
 
@@ -57,7 +57,7 @@ handicap et du type d’utilisation, y compris pour les équipements mobiles
 * La législation en vigueur est respectée, y compris celle relative à l’accessibilité
 
 * Les besoins d’éco-conception sont identifiés
-
+---
 
 ### **Savoir-faire techniques, savoir-faire organisationnels, savoir-faire relationnels, savoirs**
 
