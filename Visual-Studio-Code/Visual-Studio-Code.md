@@ -166,3 +166,19 @@
 
         • Déployer votre application sur un dossier, un serveur web, Azure ou une autre destination
 ---
+
+### **DÉVELOPPEMENT ASSISTÉ PAR IA :**
+
+
+        - GitHub Copilot, GitHub Copilot Chat et IntelliCode aident les développeurs à écrire du code plus rapidement et avec une plus grande précision, à développer une compréhension plus approfondie de la base de code et à effectuer d’autres tâches de développement, telles que l’écriture de tests unitaires, le débogage et le profilage.
+
+
+* Apprenez-en plus sur le développement assisté par l’IA dans Visual Studio :
+
+
+        • Utiliser GitHub Copilot dans Visual Studio
+
+        • Utiliser GitHub Copilot Chat dans Visual Studio
+
+        • Déboguer avec Copilot
+---
