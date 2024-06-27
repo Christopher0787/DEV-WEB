@@ -132,3 +132,20 @@
 
         • Visual Studio et GitHub
 ---
+
+### **COLLABORER AVEC D'AUTRES PERSONNES :**
+
+        - Visual Studio Live Share permet le développement collaboratif en temps réel. 
+
+        - Live Share vous permet de partager votre projet avec vos pairs, en utilisant le langage et la plateforme de votre choix. 
+
+        - Approfondissez les problèmes rapidement en permettant à votre équipe de naviguer, de définir des points d’arrêt et de saisir votre session éditeur.
+
+
+* En savoir plus sur la collaboration avec Live Share :
+
+
+        • Collaborer avec Live Share
+
+        • Cas d’utilisation courants
+---
