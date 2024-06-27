@@ -39,3 +39,47 @@ avec l’installation et la configuration d’un environnement de travail.
 
 * Le système de veille permet de suivre les évolutions technologies et les problématiques de sécurité en lien avec l’installation et la configuration d’un environnement de travail
 ---
+
+### **Savoir-faire techniques, savoir-faire organisationnels, savoir-faire relationnels, savoirs**
+
+* Mettre en place et utiliser un environnement de développement intégré, y compris en anglais
+
+* Mettre en place localement un serveur de données
+
+* Créer des fichiers pour la persistance de données ou pour des échanges entre applications
+
+* Utiliser des outils collaboratifs de développement logiciel et de versionning de type git server
+
+* Utiliser un utilitaire de contrôle de qualité de code
+
+* Paramétrer et utiliser un outil de conteneurisation pour un environnement de développement
+
+* Utiliser un logiciel de transfert de fichiers sécurisé
+
+* Comprendre la documentation technique des outils l’environnement de travail, en langue française ou anglaise, (niveau B1 CECRL pour l’anglais)
+
+* Faire évoluer son environnement de travail en adéquation avec les projets qui lui sont confiés et notamment leurs technologies et les versions de celles-ci
+
+* Intégrer son environnement de développement au sein d’une organisation en cas de plateformes collaboratives, sans impacter les autres utilisateurs
+
+* Travailler en équipe
+
+
+* Connaissance des différents environnements de développement intégrés
+
+* Connaissance des outils de gestion des versions et de partage de code
+
+* Connaissance des utilitaires de contrôle de qualité de code
+
+* Connaissance des différents formats de fichiers de persistance de données et d’échanges entre applications
+
+* Connaissance des principales bases de données et de leur mise en place
+
+* Connaissance des outils collaboratifs de partage de ressources et de leurs vulnérabilités
+
+* Connaissance des outils de conteneurisation
+
+* Connaissance des logiciels de transfert de fichiers sécurisés
+
+* Connaissance du vocabulaire professionnel technique en français et en anglais
+---
