@@ -209,6 +209,24 @@
     • Ctrl + Shift + ‘ : Ouvrir un nouveau terminal
 
     • Ctrl + Shift + M : Ouvrir le panneau de problèmes
-    
+
     • Ctrl + P : Aller sur un fichier
+---
+
+## **RACCOURCIS VS CODE POUR NLA GESTION DES FICHIERS :**
+
+
+    • Ctrl + N : Nouveau fichier
+
+    • Ctrl + O : Ouvrir un fichier
+
+    • Ctrl + S : Enregistrer
+
+    • Ctrl + Shift + S : Enregistre sous...
+
+    • Ctrl + Shift +T : Ouvrir de nouveau un fichier fermé
+
+    • Ctrl + Tab : Ouvrir le fichier suivant
+
+    • Ctrl + Shift + Tab : Ouvrir le fichier précédent
 ---
