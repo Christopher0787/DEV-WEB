@@ -22,5 +22,5 @@
 
     • Win + Maj + N  =  Démarrer une nouvelle instance
 
-    * Win + N  =  Basculer entre les fenêtres
+    • Win + N  =  Basculer entre les fenêtres
 ---
