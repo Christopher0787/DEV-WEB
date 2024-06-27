@@ -18,3 +18,10 @@ française ou anglaise.
 * Réaliser une veille technologique sur les évolutions techniques et les problématiques de sécurité en lien
 avec l’installation et la configuration d’un environnement de travail.
 ---
+
+### **Contexte(s) professionnel(s) de mise en œuvre**
+
+* Le développeur web et web mobile réalise l’installation et la configuration de son environnement de travail en début de projet.
+
+* Il coordonne son environnement de travail avec les autres intervenants du projet en cas de travail en équipe.
+---
