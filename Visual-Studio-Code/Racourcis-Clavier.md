@@ -170,3 +170,35 @@
 
     • Saisissez ?vamame  =  Fenêtre Exécution - Valeur d'impression 
 ---
+
+## **RACCOURCIS DE BASE SUR VS CODE :**
+
+
+    • Ctrl + X : Couper une ligne
+
+    • Ctrl + C : Copier une ligne
+
+    • Alt + Haut ou Bas : Déplacer une ligne en haut ou en bas
+
+    • Shift + Alt + Haut ou Bas : Copier une ligne en haut ou en bas
+
+    • Ctrl + Shift + K : Supprimer une ligne
+
+    • Enter : Insérer une ligne en bas
+
+    • Ctrl + Shift + Enter : Insert une ligne en haut
+
+    • Ctrl + F : Rechercher
+
+    • Ctrl + H : Remplacer
+
+    • Ctrl + / : Insérer un commentaire à la ligne
+
+    • Shift + Alt + A : Insérer un bloc de commentaire
+
+    • Alt + Z : Activer retour à la ligne
+
+    • Tab : Indentation
+
+    • Shift + Tab : Indentation à l'arrière
+---
