@@ -65,6 +65,8 @@ avec l’installation et la configuration d’un environnement de travail.
 * Travailler en équipe
 
 
+
+
 * Connaissance des différents environnements de développement intégrés
 
 * Connaissance des outils de gestion des versions et de partage de code
