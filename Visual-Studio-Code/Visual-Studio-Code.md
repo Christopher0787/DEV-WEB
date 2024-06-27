@@ -20,6 +20,7 @@
 
 * Visual Studio fournit aux développeurs un environnement de développement riche en fonctionnalités pour développer du code de haute qualité de manière efficace et collaborative.
 
+
         • Programme d’installation basé sur une charge de travail : installez uniquement ce dont vous avez besoin
 
         • Outils et fonctionnalités de codage puissants : tout ce dont vous avez besoin pour créer vos applications au même endroit
@@ -43,6 +44,7 @@
 
         - Organisez et naviguez dans votre code grâce à l’Explorateur de solutions qui affiche votre code organisé par fichiers ou à l’aide de l’Affichage de classes qui affiche votre code organisé par classes.
 
+
 * En savoir plus sur toutes les fonctionnalités de l’environnement IDE pour organiser et modifier le contenu :
 
     
@@ -63,7 +65,9 @@
 
         - Vous pouvez créer une configuration de build personnalisée en plus des configurations intégrées, masquer certains messages d’avertissement ou augmenter les informations de sortie de build.
 
+
 * En savoir plus sur la compilation et la génération dans Visual Studio :
+
 
         • Créer des configurations de build pour votre projet
 
@@ -76,7 +80,9 @@
 
         - Vous parcourez votre code pas à pas et examinez les valeurs stockées dans les variables, vous définissez des espions sur des variables pour déterminer quand les valeurs changent, vous examinez le chemin d’exécution de votre code, ainsi que d’autres manières de déboguer votre code pendant son exécution.
 
+
 * En savoir plus sur le débogage efficace dans Visual Studio :
+
 
         • Déboguer votre application
 
@@ -87,4 +93,25 @@
         • Déboguer avec Copilot
 
         • Conseils et astuces
+---
+
+### **TESTER VOTRE CODE :**
+
+        - Vous pouvez écrire du code de qualité à l’aide d’outils de test complets dans Visual Studio.
+
+        - Les tests unitaires permettent aux développeurs et aux testeurs de trouver rapidement des erreurs de logique dans le code. 
+
+        - Vous pouvez analyser la quantité de code testée et afficher les résultats instantanément dans une suite de tests. 
+
+        - Vous pouvez également connaître l’impact de chaque modification apportée avec des fonctionnalités avancées qui testent le code au fur et à mesure de la saisie.
+
+
+* En savoir plus sur les outils de test disponibles dans Visual Studio :
+
+
+        • Utiliser des outils de test dans Visual Studio
+
+        • Créer et exécuter des tests unitaires 
+
+        • Analyser la couverture du code
 ---
