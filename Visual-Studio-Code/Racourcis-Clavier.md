@@ -202,3 +202,11 @@
 
     • Shift + Tab : Indentation à l'arrière
 ---
+
+## **RACCOURCIS VS CODE POUR LA NAVIGATION :**
+
+
+    • Ctrl + Shift + ‘ : Ouvrir un nouveau terminal
+    • Ctrl + Shift + M : Ouvrir le panneau de problèmes
+    • Ctrl + P : Aller sur un fichier
+---
