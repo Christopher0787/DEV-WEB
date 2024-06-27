@@ -24,14 +24,14 @@ visibles à l’aide du référencement sur les moteurs de recherche suivant le 
 * Réaliser un jeu d’essai fonctionnel et les tests unitaires des composants.
 
 * Documenter sa réalisation, y compris en anglais.
-
+---
 
 ### **Contexte(s) professionnel(s) de mise en œuvre**
 
 
 * Cette compétence s’exerce seul ou en équipe, à l’aide de l’environnement de développement défini dans
 le dossier de conception.
-
+---
 
 ### **Critères de performance**
 
@@ -54,7 +54,7 @@ du support, y compris pour les équipements mobiles
 * Le site est visible sur les moteurs de recherche et le référencement dépend du public
 
 * La réalisation est documentée, y compris en anglais (niveau B1 CECRL pour l’anglais)
-
+---
 
 ### **Savoir-faire techniques, savoir-faire organisationnels, savoir-faire relationnels, savoirs**
 
