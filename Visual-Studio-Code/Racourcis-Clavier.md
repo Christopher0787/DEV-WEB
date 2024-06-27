@@ -128,3 +128,33 @@
 
     • Alt +`  =  Menu contextuel de navigation
 ---
+
+## **BARRES D'OUTILS :**
+
+
+    • F5  =  Démarrer le débogage
+
+    • Maj + F5  =  Arrêter le débogage
+
+    • Ctrl + Maj + F5  =  Redémarrer le débogage
+
+    • F10  =  Pas à pas principal
+
+    • F11  =  Pas à pas détaillé
+
+    • Maj + F11  =  Pas à pas sortant
+
+    • Ctrl + F10  =  Exécuter jusqu'au curseur
+
+    • F9  =  Définir et basculer le point d'arrêt
+
+    • Ctrl + F9  =  Désactiver le point d'arrêt
+
+    • Ctrl + Alt + I  =  Exécution (fenêtre)
+
+    • Saisissez >  =  Fenêtre Exécution - Mode Commande
+
+    • Saisissez cls  =  Fenêtre Exécution - Vider la mémoire tampon
+
+    • Saisissez ?vamame  =  Fenêtre Exécution - Valeur d'impression 
+---
