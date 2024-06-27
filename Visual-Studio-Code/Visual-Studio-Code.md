@@ -182,3 +182,15 @@
 
         • Déboguer avec Copilot
 ---
+
+### **CHOISIR VOTRE ÉDITION VISUAL STUDIO :**
+
+* Il y a trois éditions de Visual Studio :
+
+        • Community – IDE gratuit et riche en fonctionnalités pour les étudiants, et les développeurs open source et individuels
+
+        • Professional : option basée sur un abonnement pour les développeurs individuels ou les petites équipes.
+        
+        • Enterprise : option basée sur un abonnement pour les petites et grandes entreprises, et les organisations d’entreprise.
+
+* Comparez les fonctionnalités des différentes éditions de Visual Studio et achetez l’édition de Visual Studio qui correspond le mieux à vos besoins.
