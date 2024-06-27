@@ -8,21 +8,21 @@
 
 - 1  : Application (app)
 
-- 2  : nterface de programme d'application (API)
+- 2  : Interface de programme d'application (API)
 
-- 3  : onception adaptative
+- 3  : Conception adaptative
 
-- 4  : ttribut
+- 4  : Attribut
 
-- 5  : ack-end
+- 5  : Back-end
 
-- 6  : ootstrap
+- 6  : Bootstrap
 
-- 7  : oint d'arrêt
+- 7  : Point d'arrêt
 
-- 8  : avigateur
+- 8  : Navigateur
 
-- 9  : nsecte
+- 9  : Insecte
 
 - 10 : Cache
 
