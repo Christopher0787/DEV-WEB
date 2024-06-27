@@ -35,7 +35,7 @@
     • Ctrl + E  =  Rechercher dans les options d'outils
 ---
 
-## **RECHERCHER dans L'EDITEURE :**
+## **RECHERCHER dans L'ÉDITEUR :**
 
 
     • Ctrl + F  =  Recherche rapide
@@ -57,4 +57,74 @@
     • Ctrl + Maj +F  =  Recherche dans les fichiers
 
     • Ctrl + Maj + H  =  Remplacer dans les fichiers
+---
+
+## **ÉDITEUR DE CODE :**
+
+
+    • Ctrl + T  =  Atteindre tout
+
+    • Ctrl + 1.R  =  Accéder aux fichiers récents
+
+    • Ctrl + Alt + Clic  =  Ajout de plusieurs signes insertion
+
+    • Maj + Alt + Ins  =  Ajout de sélections correspondantes avec plusieurs signes insertion
+
+    • Ctrl + K.D  =  Mettre le document en forme
+
+    • Ctrl + Alt + Espace (Bascule)  =  Mode de suggestion IntelliSense
+
+    • Ctrl + J  =  Forcer l'affichage d'intelliSense
+
+    • Ctrl + .  =  Actions rapides
+
+    • Ctrl + K.X ou ?, Tab (Visual Basic)  =  Sélecteur d'extraits
+
+    • Ctrl + K.S  =  Entourer de
+
+    • Ctrl + K.I  =  Afficher les informations express
+
+    • Ctrl + ,  =  Naviguer vers
+
+    • Ctrl + Maj + Flèche Haut (précédent)
+    • Ctrl + Maj + Flèche Bas    (Suivant)     =  Parcourir les références en surbrillance
+
+    • Ctrl + Shift + > (In)
+    • Ctrl + Shift + < (Out)  =  Éditeur de zoom
+
+    • Maintenez la touche Alt et faites glisser la souris
+    • Maj + Alt + Touche de direction  =  Sélection de bloc
+
+    • Alt + Flèche Haut / Alt + Flèche Bas  =  Déplacer la ligne vers le haut/le bas
+
+    • Ctrl + E.V  =  Dupliquer la ligne
+
+    • Maj + Alt + =    =  Développer la sélection
+
+    • Maj + Alt + -  =  Diminuer la sélection
+
+    • F12  =  Atteindre la définition
+
+    • Alt + F12  =  Aperçu de la Définition
+
+    • Ctrl +Shift + 8 (Retour)
+    • Ctrl + Maj + 7 (Suivant)  =  Atteindre une pile de définitions
+
+    • Échap  =  Fermer la fenêtre Aperçu de définitions
+
+    • Ctrl + Alt + Accueil  =  Promouvoir la fenêtre de définition dans un onglet de document normal
+
+    • Ctrl + Alt + =
+    • Ctrl + Alt + -  =  Naviguer entre plusieurs fenêtre d'aperçu de définition
+
+    • Maj + F8
+    • F8  =   Naviguer entre plusieurs fenêtre d'aperçu de définition
+
+    • Maj + Échap  =  Permuter entre la fenêtre de l'éditeur de code et la fenêtre Aperçu de définition
+
+    • Ctrl + Alt + Flèche Haut  =  Accéder à Bloc englobant
+
+    • Alt + Pg préc / Alt + Pg suiv  =  Accéder au problème suivant/précédent
+
+    • Alt +`  =  Menu contextuel de navigation
 ---
