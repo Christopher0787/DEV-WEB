@@ -34,3 +34,27 @@
 
     • Ctrl + E  =  Rechercher dans les options d'outils
 ---
+
+## **RECHERCHER dans L'EDITEURE :**
+
+
+    • Ctrl + F  =  Recherche rapide
+
+    • Entrée  =  Rechercher rapide - Résultat suivant
+
+    • Maj + Entrée  =  Rechercher rapide - Résultat précédent
+
+    • Alt + Flèche Bas  =  Rechercher rapide - Zone combinée Développer
+
+    • Échap  =  Faire disparaitre la recherche
+
+    • Ctrl + H  =  Remplacement rapide
+
+    • Alt + R  =  Remplacement rapide - Suivant
+
+    • Alt + A  =  Remplacement rapide - Remplacer tout
+
+    • Ctrl + Maj +F  =  Recherche dans les fichiers
+
+    • Ctrl + Maj + H  =  Remplacer dans les fichiers
+---
