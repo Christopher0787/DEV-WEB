@@ -213,7 +213,7 @@
     • Ctrl + P : Aller sur un fichier
 ---
 
-## **RACCOURCIS VS CODE POUR NLA GESTION DES FICHIERS :**
+## **RACCOURCIS VS CODE POUR LA GESTION DES FICHIERS :**
 
 
     • Ctrl + N : Nouveau fichier
@@ -229,4 +229,20 @@
     • Ctrl + Tab : Ouvrir le fichier suivant
 
     • Ctrl + Shift + Tab : Ouvrir le fichier précédent
+---
+
+## **RACCOURCIS VS CODE POUR L'AFFICHAGE :**
+
+
+    • Ctrl + : Zoom avant
+
+    • Ctrl - : Zoom arrière
+
+    • Ctrl + B : Activer/Désactiver le sidebar
+
+    • Ctrl + Shift + F : Afficher la barre de recherche
+
+    • Ctrl + Shift + X : Afficher les extensions
+
+    • Ctrl + Shift + D : Afficher l'onglet Debug
 ---
