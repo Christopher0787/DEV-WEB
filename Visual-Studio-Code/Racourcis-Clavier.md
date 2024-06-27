@@ -132,6 +132,18 @@
 ## **BARRES D'OUTILS :**
 
 
+    • Sélectionner le bouton de dépassement de capacité  =  Ajouter des boutons
+
+    • Ctrl + D  =  Rechercher le combo dans la barre d'outils Standard
+
+    • Saisissez >   =  Mode commande de zone de texte de recherche
+
+    • Tapez alias <nouvelle alias> <commande> dans la fenêtre Commande
+---
+
+## **DÉBOGAGE :**
+
+
     • F5  =  Démarrer le débogage
 
     • Maj + F5  =  Arrêter le débogage
