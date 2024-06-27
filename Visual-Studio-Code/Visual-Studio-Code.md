@@ -32,3 +32,25 @@
 
         • Développement assisté par l’IA – écrire du code plus efficacement avec l’aide de l’IA
 ---
+
+## **DECOUVRIR VISUAL STUDIO CODE :**
+
+### **DEVELOPPER VOTRE CODE**
+
+        - L’environnement de développement intégré Visual Studio fournit de nombreuses fonctionnalités facilitant l’écriture et la gestion de votre code en toute confiance. 
+
+        - Codez par exemple rapidement et précisément à l’aide d’outils de développement assistés par l’IA comme GitHub Copilot et IntelliCode, apportez des améliorations rapides à votre code à l’aide d’ampoules suggérant des actions, ou développez/réduisez des blocs de code à l’aide du mode Plan. 
+
+        - Organisez et naviguez dans votre code grâce à l’Explorateur de solutions qui affiche votre code organisé par fichiers ou à l’aide de l’Affichage de classes qui affiche votre code organisé par classes.
+
+* En savoir plus sur toutes les fonctionnalités de l’environnement IDE pour organiser et modifier le contenu :
+
+    
+        • Éditeur de code
+
+        • Personnaliser l’environnement IDE et l’éditeur
+
+        • Organiser le code
+
+        • Conseils et astuces
+---
