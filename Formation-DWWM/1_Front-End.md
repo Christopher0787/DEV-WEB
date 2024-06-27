@@ -25,3 +25,17 @@ avec l’installation et la configuration d’un environnement de travail.
 
 * Il coordonne son environnement de travail avec les autres intervenants du projet en cas de travail en équipe.
 ---
+
+### **Critères de performance**
+
+* Les outils de développement nécessaires sont installés et configurés
+
+* Les outils de gestion des versions et de collaboration sont installés
+
+* Les conteneurs implémentent les services requis pour l’environnement de développement
+
+* La documentation technique de l’environnement de travail est comprise, en langue française ou anglaise
+(niveau B1 CECRL pour l’anglais)
+
+* Le système de veille permet de suivre les évolutions technologies et les problématiques de sécurité en lien avec l’installation et la configuration d’un environnement de travail
+---
