@@ -54,3 +54,18 @@
 
         • Conseils et astuces
 ---
+
+## **GÉNÉRER VOTRE APPLICATION :**
+
+        - Vous pouvez compiler et générer vos applications pour créer des builds immédiatement et les tester dans un débogueur.
+
+        - Vous pouvez exécuter des builds multiprocesseurs pour les projets C++ et C#. Visual Studio fournit également plusieurs options que vous pouvez configurer quand vous générez des applications. 
+
+        - Vous pouvez créer une configuration de build personnalisée en plus des configurations intégrées, masquer certains messages d’avertissement ou augmenter les informations de sortie de build.
+
+* En savoir plus sur la compilation et la génération dans Visual Studio :
+
+        • Créer des configurations de build pour votre projet
+
+        • Générer une application
+---
