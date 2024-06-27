@@ -24,3 +24,13 @@
 
     • Win + N  =  Basculer entre les fenêtres
 ---
+
+## **RECHERCHER :**
+
+
+    • Ctrl + ;  =  Recherche Explorateur de solutions
+
+    • Ctrl + Q  = Recherche Visual Studio
+
+    • Ctrl + E  =  Rechercher dans les options d'outils
+---
