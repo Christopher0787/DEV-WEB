@@ -4,7 +4,9 @@
 ## **1. Développer la partie Front-End d'une application Web ou Web mobile sécurisée :**
 ---
 
+
 ### **Description de la compétence – processus de mise en œuvre**
+
 
 * En tenant compte de l’environnement technique défini dans le dossier de conception, installer et configurer sur son poste de travail tous les outils de développement nécessaires à son environnement de travail, y compris en anglais.
 
@@ -19,14 +21,18 @@ française ou anglaise.
 avec l’installation et la configuration d’un environnement de travail.
 ---
 
+
 ### **Contexte(s) professionnel(s) de mise en œuvre**
+
 
 * Le développeur web et web mobile réalise l’installation et la configuration de son environnement de travail en début de projet.
 
 * Il coordonne son environnement de travail avec les autres intervenants du projet en cas de travail en équipe.
 ---
 
+
 ### **Critères de performance**
+
 
 * Les outils de développement nécessaires sont installés et configurés
 
@@ -40,7 +46,9 @@ avec l’installation et la configuration d’un environnement de travail.
 * Le système de veille permet de suivre les évolutions technologies et les problématiques de sécurité en lien avec l’installation et la configuration d’un environnement de travail
 ---
 
+
 ### **Savoir-faire techniques, savoir-faire organisationnels, savoir-faire relationnels, savoirs**
+
 
 * Mettre en place et utiliser un environnement de développement intégré, y compris en anglais
 
