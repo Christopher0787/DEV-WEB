@@ -149,3 +149,20 @@
 
         • Cas d’utilisation courants
 ---
+
+### **DÉVELOPPER VOTRE APPLICATION :**
+
+        - Quand vous déployez une application, un service ou un composant, vous le distribuez pour l’installer sur d’autres ordinateurs, appareils, serveurs ou dans le cloud. 
+
+        - Vous pouvez choisir la méthode qui vous convient dans Visual Studio pour le type de déploiement dont vous avez besoin. 
+
+        - Partagez vos applications et votre code en les publiant sur le web ou sur Azure, ou en les déployant sur un partage réseau ou un dossier local.
+
+
+* En savoir plus sur le déploiement de votre application avec Visual Studio :
+
+
+        • Déployer votre application à partir de Visual Studio 
+
+        • Déployer votre application sur un dossier, un serveur web, Azure ou une autre destination
+---
