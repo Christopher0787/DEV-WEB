@@ -115,3 +115,20 @@
 
         • Analyser la couverture du code
 ---
+
+### **GESTION DE VERSIONS :**
+
+        - Avec les fonctionnalités Git intégrées dans Visual Studio, vous pouvez cloner, créer ou ouvrir vos propres référentiels. 
+
+        - La fenêtre Outil Git dispose de tout ce dont vous avez besoin pour valider et envoyer (push) les modifications au code, gérer les branches et résoudre les conflits de fusion. 
+
+        - Si vous avez un compte GitHub, vous pouvez gérer ces référentiels directement dans Visual Studio.
+
+
+* En savoir plus sur la gestion de version dans Visual Studio :
+
+
+        • Gestion de version avec Git
+
+        • Visual Studio et GitHub
+---
