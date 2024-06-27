@@ -55,7 +55,7 @@
         • Conseils et astuces
 ---
 
-## **GÉNÉRER VOTRE APPLICATION :**
+### **GÉNÉRER VOTRE APPLICATION :**
 
         - Vous pouvez compiler et générer vos applications pour créer des builds immédiatement et les tester dans un débogueur.
 
@@ -68,4 +68,23 @@
         • Créer des configurations de build pour votre projet
 
         • Générer une application
+---
+
+### **DÉBEUGUER VOTRE CODE :**
+
+        - Le débeugage intégré dans Visual Studio permet de déboguer, de profiler et de diagnostiquer votre solution facilement. 
+
+        - Vous parcourez votre code pas à pas et examinez les valeurs stockées dans les variables, vous définissez des espions sur des variables pour déterminer quand les valeurs changent, vous examinez le chemin d’exécution de votre code, ainsi que d’autres manières de déboguer votre code pendant son exécution.
+
+* En savoir plus sur le débogage efficace dans Visual Studio :
+
+        • Déboguer votre application
+
+        • Techniques et outils de débogage
+
+        • Mesurer les performances des applications
+
+        • Déboguer avec Copilot
+
+        • Conseils et astuces
 ---
