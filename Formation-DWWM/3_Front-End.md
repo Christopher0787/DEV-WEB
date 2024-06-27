@@ -6,6 +6,7 @@
 
 ### **Description de la compétence – processus de mise en œuvre**
 
+
 * A partir du dossier de conception, des maquettes et de leur enchaînement, réaliser les interfaces utilisateur
 web ou web mobile statiques en tenant compte de l’expérience utilisateur, y compris pour les personnes
 en situation de handicap.
@@ -24,12 +25,16 @@ visibles à l’aide du référencement sur les moteurs de recherche suivant le 
 
 * Documenter sa réalisation, y compris en anglais.
 
+
 ### **Contexte(s) professionnel(s) de mise en œuvre**
+
 
 * Cette compétence s’exerce seul ou en équipe, à l’aide de l’environnement de développement défini dans
 le dossier de conception.
 
+
 ### **Critères de performance**
+
 
 * L’interface est conforme à la maquette et les besoins en éco-conception sont pris en compte
 
@@ -50,7 +55,9 @@ du support, y compris pour les équipements mobiles
 
 * La réalisation est documentée, y compris en anglais (niveau B1 CECRL pour l’anglais)
 
+
 ### **Savoir-faire techniques, savoir-faire organisationnels, savoir-faire relationnels, savoirs**
+
 
 * Utiliser le langage de présentation HyperText Markup Language (HTML) et le langage Cascading Style
 Sheets (CSS)
