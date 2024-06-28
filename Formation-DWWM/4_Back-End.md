@@ -2,7 +2,7 @@
 ---
 
 ## **2. Développer la partie back-end d'une application web ou web mobile sécurisée**
-
+---
 
 ### **Description de la compétence – processus de mise en œuvre**
 
