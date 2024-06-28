@@ -24,6 +24,7 @@
         * 01-09-2028
 ---
 
+
 ## **Compétences attestées :**
 
 
@@ -50,6 +51,7 @@
 
         * Documenter le déploiement d'une application dynamique web ou web mobile
 ---
+
 
 ## **Secteur d’activité et type d’emploi**
 
@@ -79,6 +81,7 @@
 
         * Code(s) ROME :
 ---
+
 
 ## **Résumé de la certification**
 
