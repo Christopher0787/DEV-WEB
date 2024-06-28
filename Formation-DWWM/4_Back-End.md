@@ -31,7 +31,7 @@ La procédure de déploiement est rédigée ou mise à jour
 Les scripts de déploiement sont écrits et documentés
 Le système de veille permet de suivre les évolutions technologiques et les problématiques de sécurité
 liées au déploiement d’une application dynamique web ou web mobile, y compris dans le cadre d’une
-démarche DevOps
+démarche DevOps.
 
 
 ### **Savoir-faire techniques, savoir-faire organisationnels, savoir-faire relationnels, savoirs**
